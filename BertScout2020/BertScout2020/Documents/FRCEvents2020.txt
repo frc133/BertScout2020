@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFRCEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FRCEvent>
+    <Id>NEDIST_GRANITE</Id>
+    <Name>NE District Granite State Event</Name>
+    <Location>Salem, NH, USA</Location>
+    <StartDate>02/28/2020</StartDate>
+    <EndDate>03/02/2020</EndDate>
+  </FRCEvent>
+  <FRCEvent>
+    <Id>NEDIST_SEMASS</Id>
+    <Name>NE District SE Mass Event</Name>
+    <Location>Bridgewater, MA, USA</Location>
+    <StartDate>03/08/2020</StartDate>
+    <EndDate>03/10/2020</EndDate>
+  </FRCEvent>
+  <FRCEvent>
+    <Id>NEDIST_WATERBURY</Id>
+    <Name>NE District Waterbury Event</Name>
+    <Location>Waterbury, CT, USA</Location>
+    <StartDate>03/08/2020</StartDate>
+    <EndDate>03/10/2020</EndDate>
+  </FRCEvent>
+  <FRCEvent>
+    <Id>NEDIST_NORTHSHORE</Id>
+    <Name>NE District North Shore Event</Name>
+    <Location>Reading, MA, USA</Location>
+    <StartDate>03/15/2020</StartDate>
+    <EndDate>03/17/2020</EndDate>
+  </FRCEvent>
+  <FRCEvent>
+    <Id>NEDIST_SOUTHERNNH</Id>
+    <Name>NE District Southern NH Event</Name>
+    <Location>Bedford, NH, USA</Location>
+    <StartDate>03/15/2020</StartDate>
+    <EndDate>03/17/2020</EndDate>
+  </FRCEvent>
+  <FRCEvent>
+    <Id>NEDIST_BOSTON</Id>
+    <Name>NE District Greater Boston Event</Name>
+    <Location>Revere, MA, USA</Location>
+    <StartDate>03/22/2020</StartDate>
+    <EndDate>03/24/2020</EndDate>
+  </FRCEvent>
+  <FRCEvent>
+    <Id>NEDIST_RHODEISLAND</Id>
+    <Name>NE District Rhode Island Event</Name>
+    <Location>Smithfield, RI, USA</Location>
+    <StartDate>03/22/2020</StartDate>
+    <EndDate>03/24/2020</EndDate>
+  </FRCEvent>
+  <FRCEvent>
+    <Id>NEDIST_WESTNE</Id>
+    <Name>NE District Western NE Event</Name>
+    <Location>Springfield, MA, USA</Location>
+    <StartDate>03/22/2020</StartDate>
+    <EndDate>03/24/2020</EndDate>
+  </FRCEvent>
+  <FRCEvent>
+    <Id>NEDIST_CENTRALMA</Id>
+    <Name>NE District Central Mass Event</Name>
+    <Location>Shrewsbury, MA, USA</Location>
+    <StartDate>03/29/2020</StartDate>
+    <EndDate>03/31/2020</EndDate>
+  </FRCEvent>
+  <FRCEvent>
+    <Id>NEDIST_UNH</Id>
+    <Name>NE District UNH Event</Name>
+    <Location>Durham, NH, USA</Location>
+    <StartDate>03/29/2020</StartDate>
+    <EndDate>03/31/2020</EndDate>
+  </FRCEvent>
+  <FRCEvent>
+    <Id>NEDIST_PINETREE</Id>
+    <Name>NE District Pine Tree Event</Name>
+    <Location>Lewiston, ME, USA</Location>
+    <StartDate>04/04/2020</StartDate>
+    <EndDate>04/06/2020</EndDate>
+  </FRCEvent>
+  <FRCEvent>
+    <Id>NEDIST_HARTFORD</Id>
+    <Name>NE District Hartford Event</Name>
+    <Location>Hartford, CT, USA</Location>
+    <StartDate>04/05/2020</StartDate>
+    <EndDate>04/07/2020</EndDate>
+  </FRCEvent>
+  <FRCEvent>
+    <Id>NEDIST_CHAMP</Id>
+    <Name>New England District Championship</Name>
+    <Location>Worcester, MA, USA</Location>
+    <StartDate>04/10/2020</StartDate>
+    <EndDate>04/13/2020</EndDate>
+  </FRCEvent>
+  <FRCEvent>
+    <Id>WORLD_DETROIT</Id>
+    <Name>2020 FIRST Championship Detroit</Name>
+    <Location>Detroit, MI, USA</Location>
+    <StartDate>04/24/2020</StartDate>
+    <EndDate>04/27/2020</EndDate>
+  </FRCEvent>
+</ArrayOfFRCEvent>

@@ -1,0 +1,6 @@
+WEEKZERO	Week Zero	TBD	2020-02-16	2020-02-16
+NEDIST_SOUTHERNNH	NE District Southern NH Event	Bedford, NH, USA	2020-03-15	2020-03-17
+NEDIST_RHODEISLAND	NE District Rhode Island Event	Smithfield, RI, USA	2020-03-22	2020-03-24
+NEDIST_PINETREE	NE District Pine Tree Event	Lewiston, ME, USA	2020-04-04	2020-04-06
+NEDIST_CHAMP	New England District Championship	Worcester, MA, USA	2020-04-10	2020-04-13
+WORLD_DETROIT	2020 FIRST Championship Detroit	Detroit, MI, USA	2020-04-24	2020-04-27

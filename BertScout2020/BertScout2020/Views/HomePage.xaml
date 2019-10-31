@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BertScout2020.Views.HomePage"
+             Title="Bert Scouting 2020"
+             x:Name="HomeMainPage">
+    
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Options" Clicked="Home_Options_Clicked">
+            <ToolbarItem.Icon>
+                <OnPlatform x:TypeArguments="FileImageSource">
+                    <On Platform="UWP" Value="options.png"/>
+                </OnPlatform>
+            </ToolbarItem.Icon>
+        </ToolbarItem>
+    </ContentPage.ToolbarItems>
+
+    <StackLayout VerticalOptions="CenterAndExpand">
+        <Label
+            x:Name="CurrentFRCEventLabel"
+            Text="You haven't selected an event yet"
+            HorizontalOptions="Center"
+            FontSize="Large"
+            TextColor="Green"
+            FontAttributes="Bold"
+            />
+        <Button
+            Text="Select FRC Event" 
+            HorizontalOptions="Center" 
+            VerticalOptions="Center"
+            Clicked="Button_Select_FRC_Event_Clicked"
+            FontSize="Large"
+            Margin="20"
+            WidthRequest="300"
+            />
+        <Button
+            Text="Select Teams" 
+            HorizontalOptions="Center" 
+            VerticalOptions="Center"
+            Clicked="Button_Select_Teams_Clicked" 
+            FontSize="Large"
+            Margin="20"
+            WidthRequest="300"
+            />
+        <Button
+            Text="Select Items (TEST)" 
+            HorizontalOptions="Center" 
+            VerticalOptions="Center"
+            Clicked="Select_Items_Clicked"
+            FontSize="Large"
+            Margin="20"
+            WidthRequest="300"
+            />
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BertScout2020.Views.EditMatchCommentPage"
+             Title="{Binding Title}">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem
+            Text="Save"
+            Clicked="ToolbarItem_Save_Clicked"
+            >
+            <ToolbarItem.Icon>
+                <OnPlatform x:TypeArguments="FileImageSource">
+                    <On Platform="UWP" Value="save.png"/>
+                </OnPlatform>
+            </ToolbarItem.Icon>
+        </ToolbarItem>
+    </ContentPage.ToolbarItems>
+
+    <ContentPage.Content>
+        <StackLayout
+            VerticalOptions="FillAndExpand"
+            HorizontalOptions="FillAndExpand">
+            <StackLayout Orientation="Horizontal">
+                <Label 
+                    Text="Name: "
+                    FontSize="24"
+                    VerticalTextAlignment="Center"
+                    />
+                <Entry 
+                    x:Name="Editor_MatchScouterName"
+                    Text=""
+                    FontSize="24"
+                    IsSpellCheckEnabled="False"
+                    IsTextPredictionEnabled="False"
+                    HorizontalOptions="FillAndExpand"
+                    MaxLength="25"
+                    TextChanged="Editor_MatchScouterName_TextChanged"
+                    />
+            </StackLayout>
+            <Label 
+                Text="Comment:"
+                FontSize="24"
+                />
+            <Editor
+                x:Name="Editor_MatchComment"
+                FontSize="24"
+                IsSpellCheckEnabled="False"
+                VerticalOptions="FillAndExpand"
+                Text=""
+                MaxLength="500"
+                TextChanged="Editor_MatchComment_TextChanged"
+                />
+            <Label
+                x:Name="ErrorMessage"
+                Text=""
+                HorizontalOptions="CenterAndExpand"
+                HorizontalTextAlignment="Center"
+                VerticalTextAlignment="Start"
+                HeightRequest="400"
+                FontSize="24"
+                />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

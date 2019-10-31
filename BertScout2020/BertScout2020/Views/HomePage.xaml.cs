@@ -1,0 +1,43 @@
+﻿using BertScout2020.Models;
+using System;
+
+using Xamarin.Forms;
+using Xamarin.Forms.Xaml;
+
+namespace BertScout2020.Views
+{
+    [XamlCompilation(XamlCompilationOptions.Compile)]
+    public partial class HomePage : ContentPage
+    {
+        MainPage RootPage { get => Application.Current.MainPage as MainPage; }
+
+        public HomePage()
+        {
+            InitializeComponent();
+
+            // show the event last picked
+            App app = Application.Current as App;
+            CurrentFRCEventLabel.Text = app.CurrentFRCEvent;
+        }
+
+        async private void Home_Options_Clicked(object sender, EventArgs e)
+        {
+            //todo add options page
+        }
+
+        async private void Button_Select_FRC_Event_Clicked(object sender, EventArgs e)
+        {
+            await RootPage.NavigateFromMenu((int)MenuItemType.BrowseFRCEvents);
+        }
+
+        async private void Button_Select_Teams_Clicked(object sender, EventArgs e)
+        {
+            //await RootPage.NavigateFromMenu((int)MenuItemType.BrowseFRCEvents);
+        }
+
+        async private void Select_Items_Clicked(object sender, EventArgs e)
+        {
+            await RootPage.NavigateFromMenu((int)MenuItemType.BrowseItems);
+        }
+    }
+}

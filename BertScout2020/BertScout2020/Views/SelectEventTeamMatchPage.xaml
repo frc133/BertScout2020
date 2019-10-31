@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BertScout2020.Views.SelectEventTeamMatchPage"
+             Title="{Binding Title}">
+
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem 
+            Text="Team Details"
+            Clicked="TeamDetails_Clicked">
+            <ToolbarItem.Icon>
+                <OnPlatform x:TypeArguments="FileImageSource">
+                    <On Platform="UWP" Value="info.png"/>
+                </OnPlatform>
+            </ToolbarItem.Icon>
+        </ToolbarItem>
+    </ContentPage.ToolbarItems>
+
+    <ContentPage.Content>
+        <StackLayout
+            VerticalOptions="FillAndExpand">
+            <StackLayout 
+                Orientation="Horizontal"
+                Margin="10"
+                >
+                <Label 
+                    Text="Match Number:" 
+                    FontSize="24"
+                    Margin="0,10,0,0"
+                    />
+                <Label
+                    x:Name="MatchNumberLabelValue"
+                    Text="1"
+                    FontSize="24"
+                    WidthRequest="90"
+                    Margin="10,10,10,0"
+                    />
+                <Button
+                    x:Name="AddMatch_Minus"
+                    Text="-"
+                    FontSize="24"
+                    WidthRequest="90"
+                    Clicked="AddMatch_Minus_Clicked"
+                    BackgroundColor="LightGray"
+                    />
+                <Button
+                    x:Name="AddMatch_Plus"
+                    Text="+"
+                    FontSize="24"
+                    WidthRequest="90"
+                    Clicked="AddMatch_Plus_Clicked"
+                    BackgroundColor="LightGray"
+                    />
+                <Button
+                    x:Name="AddNewMatch"
+                    Text="Add"
+                    FontSize="24"
+                    Margin="10,0,0,0"
+                    Clicked="AddNewMatch_Clicked"
+                    BackgroundColor="LightGray"
+                    WidthRequest="90"
+                    />
+            </StackLayout>
+            <ListView
+                    x:Name="EventTeamMatchesListView"
+                    ItemsSource="{Binding Matches}"
+                    VerticalOptions="FillAndExpand"
+                    HasUnevenRows="true"
+                    RefreshCommand="{Binding LoadEventTeamMatchesCommand}"
+                    IsPullToRefreshEnabled="true"
+                    IsRefreshing="{Binding IsBusy, Mode=OneWay}"
+                    CachingStrategy="RecycleElement"
+                    ItemSelected="EventTeamsListMatchView_ItemSelected">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Padding="10">
+                                <StackLayout Orientation="Horizontal">
+                                    <Label Text="Match #"
+                                           LineBreakMode="NoWrap"
+                                           Style="{DynamicResource ListItemTextStyle}"
+                                           FontAttributes="Bold"
+                                           FontSize="24" />
+                                    <Label Text="{Binding MatchNumber}"
+                                           LineBreakMode="NoWrap"
+                                           Style="{DynamicResource ListItemTextStyle}"
+                                           FontAttributes="Bold"
+                                           FontSize="24" />
+                                </StackLayout>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

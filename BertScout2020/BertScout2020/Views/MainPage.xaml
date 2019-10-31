@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BertScout2020.Views.MainPage"
+             Title="BERT133 Scouting 2020"
+             >
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem 
+            x:Name="MainPage_Version_Label"
+            Text="Version 0.0" 
+            Clicked="MainPage_Version_Label_Clicked"
+            />
+        <ToolbarItem Text="Options" Clicked="MainPage_Options_Clicked">
+            <ToolbarItem.Icon>
+                <OnPlatform x:TypeArguments="FileImageSource">
+                    <On Platform="UWP" Value="options.png"/>
+                </OnPlatform>
+            </ToolbarItem.Icon>
+        </ToolbarItem>
+    </ContentPage.ToolbarItems>
+
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="CenterAndExpand">
+            <Label
+                x:Name="CurrentFRCEventLabel"
+                Text="You haven't selected an event yet"
+                HorizontalOptions="CenterAndExpand"
+                FontSize="30"
+                TextColor="Green"
+                FontAttributes="Bold"
+                Margin="20"
+                />
+            <Button
+                x:Name="Button_Select_FRC_Event"
+                Text="Select FRC Event" 
+                HorizontalOptions="Center" 
+                VerticalOptions="Center"
+                Clicked="Button_Select_FRC_Event_Clicked"
+                FontSize="24"
+                Margin="20"
+                WidthRequest="300"
+                BackgroundColor="LightGray"
+                />
+            <Button
+                x:Name="Button_Match_Scouting"
+                Text="Match Scouting" 
+                HorizontalOptions="Center" 
+                VerticalOptions="Center"
+                Clicked="Button_Match_Scouting_Clicked" 
+                FontSize="24"
+                Margin="20"
+                WidthRequest="300"
+                BackgroundColor="LightGray"
+                />
+            <Button
+                x:Name="Button_Event_Results"
+                Text="Event Results" 
+                HorizontalOptions="Center" 
+                VerticalOptions="Center"
+                Clicked="Button_Event_Results_Clicked" 
+                FontSize="24"
+                Margin="20"
+                WidthRequest="300"
+                BackgroundColor="LightGray"
+                />
+            <Label
+                x:Name="LabelVersionMessage"
+                Text=""
+                FontSize="24"
+                HorizontalOptions="CenterAndExpand"
+                HeightRequest="100"
+                HorizontalTextAlignment="Center"
+                />
+            <Label
+                x:Name="LabelVersionMessage2"
+                Text=""
+                FontSize="24"
+                HorizontalOptions="CenterAndExpand"
+                HorizontalTextAlignment="Center"
+                />
+        </StackLayout>
+    </ContentPage.Content>
+    
+</ContentPage>
