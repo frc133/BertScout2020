@@ -270,3 +270,6 @@ __pycache__/
 *.db3-shm
 *.db3-wal
 
+# BERT rules
+EXE/
+

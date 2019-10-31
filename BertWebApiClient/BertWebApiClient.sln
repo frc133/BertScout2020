@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BertWebApiClient", "BertWebApiClient\BertWebApiClient.csproj", "{006A9C0D-8C19-4010-B01A-B0B76DD6CDC7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BertWebApiClient", "BertWebApiClient.csproj", "{006A9C0D-8C19-4010-B01A-B0B76DD6CDC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.JSON", "Common.JSON\Common.JSON.csproj", "{EF7B4F31-17B9-40FF-8334-196056BAB2D2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.JSON", "..\Common.JSON\Common.JSON.csproj", "{EF7B4F31-17B9-40FF-8334-196056BAB2D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BertScout2020Data", "BertScout2020Data\BertScout2020Data.csproj", "{180DF173-92F6-45C4-9E4B-AE81568F507B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BertScout2020Data", "..\BertScout2020Data\BertScout2020Data.csproj", "{180DF173-92F6-45C4-9E4B-AE81568F507B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
