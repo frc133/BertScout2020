@@ -1,0 +1,342 @@
+8002	The Knack	Hartland, Wisconsin, USA
+8003	Bushmen Robotics	Pine Bush, New York, USA
+8004	Tigris ex Machina	Waynesville, Missouri, USA
+8005	The Meadow Bots	Las Vegas, Nevada, USA
+8006	Cathedral High School	Los Angeles, California, USA
+8011	Guangzhou Wayi	Guangzhou, Guangdong, China
+8012	APEX Robotics	Mesa, Arizona, USA
+8013	Boston Lions	Boston, Massachusetts, USA
+8014	Fortitude Robotics	Aurora, Illinois, USA
+8015	The Cheetahs	Shanghai, Shanghai, China
+8016	Eco Robotics	Rohnert Park, California, USA
+8017	SCREW IT!!	taichung, Taichung, Chinese Taipei
+8018	Del Sol Dragons	Las Vegas, Nevada, USA
+8019	Mission Patriot Engineering	Mission, Texas, USA
+8020	Cyberpunk	Taipei, Taipei, Chinese Taipei
+8021	Paradise Honors Panthers	Surprise, Arizona, USA
+8022	Northwest Career and Technical Academy Robotics	Las Vegas, Nevada, USA
+8023	LRTC Robotics The Northern Forge	Lewiston, Maine, USA
+8024	Sparta Robotans	Sparta, Wisconsin, USA
+8025	Navigator Robotics	Kapolei, Hawaii, USA
+8026	Tennessee Robotics Club	Murfreesboro, Tennessee, USA
+8027	Not the Droids You Are Looking For	Sharon, Pennsylvania, USA
+8028	The Resistance Network	Phoenix, Arizona, USA
+8029	Steel Bronco Robotics	Barrington, Illinois, USA
+8030	East lincoln Iron stangs	Denver, North Carolina, USA
+8031	LUMINOUS	Muratpaşa, Antalya, Turkey
+8032	Redshift	Seattle, Washington, USA
+8033	Highlander Robotics	Piedmont, California, USA
+8034	Butterfly Effect	Bornova, Izmir, Turkey
+8035	UWA	Perth, Western Australia, Australia
+8036	Sneaky Snakes	Istanbul, Istanbul, Turkey
+8037	VW Cougar Robotics	Van Wert, Ohio, USA
+8038	R.O.B. (Robots Outta Bristow)	Bristow, Oklahoma, USA
+8039	ArtisanSoul	Taipei, Taipei, Chinese Taipei
+8040	ZODIAC	TRABZON, Trabzon, Turkey
+8041	Lake City Trojans	Lake City, Michigan, USA
+8042	Fenrir	ANTALYA, Antalya, Turkey
+8043	Neon Ryder	Tulsa, Oklahoma, USA
+8044	Denham Venom	Denham Springs, Louisiana, USA
+8045	CVHS First Robotics: The Wallace Dynasty	Castro Valley, California, USA
+8046	LakerBots	Meredith, New Hampshire, USA
+8047	YAKACIK ROBOTICS	kartal, Istanbul, Turkey
+8048	EPA robotics team	Palo Alto, California, USA
+8049	Ironwood Ridge Robotics	Oro Valley, Arizona, USA
+8050	NOVA ROBOTICS	Canton, Georgia, USA
+8051	TinkRex	Tukwila, Washington, USA
+8052	Water Bears	Toronto, Ontario, Canada
+8053	Rage Against The Machine Robotics	San Antonio, Texas, USA
+8054	FLARE	Istanbul, Istanbul, Turkey
+8055	EGM Robotics	Frisco, Texas, USA
+8056	Laissez Faire	Karşıyaka, Izmir, Turkey
+8057	All Wired Up	Groveland, Florida, USA
+8058	IEL ROBOTICS	İSTANBUL, Istanbul, Turkey
+8059	Robotics at Eastside Catholic (REC)	Sammamish, Washington, USA
+8060	Valencia Robotics	Valencia, California, USA
+8061	Butler Tech Robotics	Hamilton, Ohio, USA
+8062	O Hale Gnaw	Tulsa, Oklahoma, USA
+8063	Tornado Robotics	Drumright, Oklahoma, USA
+8064	Imperial Watch	Drumright, Oklahoma, USA
+8065	Robarks	Wagoner, Oklahoma, USA
+8066	WOLF ARMY ROBOTICS	Lorena, São Paulo, Brazil
+8067	Alpha Lab	Longueuil, Québec, Canada
+8068	Oakland Underground Robotics	Waterford, Michigan, USA
+8069	Super Hornets	O Fallon, Missouri, USA
+8070	CyberGriffins	Kadıköy, Istanbul, Turkey
+8071	R3-D3 Mersin	Mersin, Mersin, Turkey
+8072	TechnoTigers	Ottawa, Ontario, Canada
+8073	Blyth Academy Ottawa	Ottawa, Ontario, Canada
+8074	Rumble Bots	Wewoka, Oklahoma, USA
+8075	CyberTigers	Dover, New Jersey, USA
+8076	Academy of Loudoun High School - Team Robo Loco # 5338	Leesburg, Virginia, USA
+8077	Delmar Robotics Engineers At MADE	Saint Louis, Missouri, USA
+8078	G FORCE	Menemen, Izmir, Turkey
+8079	River Robotics Team	İstanbul, Istanbul, Turkey
+8080	Sequoyah Robotics	Canton, Georgia, USA
+8081	UMEI Lightning Robotics	Leamington, Ontario, Canada
+8082	Tech-Mates	Surrey, British Columbia, Canada
+8083	ALX Robotics	Douglasville, Georgia, USA
+8084	ALFA ROBOTICS	ümraniye, Istanbul, Turkey
+8085	Memes	Milford, Connecticut, USA
+8086	Anadarko Warriors	Anadarko, Oklahoma, USA
+8087	Cougar Pride Robotics	Show Low, Arizona, USA
+8088	Bionic Panthers	Liberty Hill, Texas, USA
+8089	Rockway	Kitchener, Ontario, Canada
+8090	The PECIL Mavericks	Roxboro, North Carolina, USA
+8091	The Condors	Castroville, California, USA
+8092	Greatest Of All Times	Tekirdağ, Tekirdag, Turkey
+8093	Ranger Force	Spencerport, New York, USA
+8094	Back Road Robotics	Statesboro, Georgia, USA
+8095	ALTINORDU MESLEKİ VE TEKNİK ANADOLU LİSESİ	ORDU, Ordu, Turkey
+8096	Cache Money	Chicago, Illinois, USA
+8097	AREA 27	Durham, North Carolina, USA
+8098	Wildkat Robotiks FRC	Willis, Texas, USA
+8099	APEIRON ROBOTICS	TRABZON, Trabzon, Turkey
+8100	Grayson Robotics	Grayson, Georgia, USA
+8101	Coo-Coo Pigeons	Beijing, Beijing, China
+8102	NAMETBD-DCLSTEM	Wayne, New Jersey, USA
+8103	East Noble High School	Kendallville, Indiana, USA
+8104	Squid Worx Robotics	Jupiter, Florida, USA
+8105	Apollo Black Cat	Torreón, Coahuila, Mexico
+8106	Toronto French School	North York, Ontario, Canada
+8107	THS Robotics	Torrington, Connecticut, USA
+8108	Fantastic4Robotics	Abingdon, Virginia, USA
+8109	Pirate Robotics	San Jose, California, USA
+8110	Blue Dragon	Beijing, Beijing, China
+8111	Whiter Tiger	Beijing, Beijing, China
+8112	Cyclotrons	Ottawa, Kansas, USA
+8113	Royal Thunder Robotics	Sarnia, Ontario, Canada
+8114	Rashid and the Crew	Boerne, Texas, USA
+8115	Proud Peacocks	Chesterfield, Michigan, USA
+8116	Hatchet Robotics	Washington, Indiana, USA
+8117	Rover Bots	Easton, Pennsylvania, USA
+8118	Christ Episcopal School	Covington, Louisiana, USA
+8119	TigerBotics	Imperial, California, USA
+8120	YORK MEMORIAL JAEGERS	North York, Ontario, Canada
+8121	I.C.R.T.	Tainan, Tainan, Chinese Taipei
+8122	Robotic Eagles	Chicago, Illinois, USA
+8123	Pace Warriors	Brownsville, Texas, USA
+8124	Roosevelt	Wyandotte, Michigan, USA
+8125	Artnox Robotic	Fatih, Istanbul, Turkey
+8126	Control Freaks	Vicksburg, Michigan, USA
+8127	Team RaByte	Warsaw, Mazowieckie, Poland
+8128	ACE High School	Reno, Nevada, USA
+8129	ZZSH DUSK	Taipei, Taipei, Chinese Taipei
+8130	Starry Nights	Absecon, New Jersey, USA
+8131	Magnetech Vega	Samsun, Samsun, Turkey
+8132	Rafales	La Malbaie, Québec, Canada
+8133	JayBots	Jeannette, Pennsylvania, USA
+8134	SJP Eagle Botz	Boca Raton, Florida, USA
+8135	Legacy Robotics	Santa Ana, California, USA
+8136	STEAMLes	Teyateyaneng, Berea, Lesotho
+8137	Byting Bulldogs	Georgetown, South Carolina, USA
+8138	UB253	Tacoma, Washington, USA
+8139	Pirate Robotics	Egg Harbor City, New Jersey, USA
+8140	RoboManiac	Cleveland, Ohio, USA
+8141	LYBOTICS Girls Team	Tripoli, Tarabulus, Libya
+8142	The Legion	Riverside, California, USA
+8143	SOLUTION TURK	Istanbul, Istanbul, Turkey
+8144	Red Chair Robotics	Cypress, Texas, USA
+8145	NTE Robotics	Cleveland, Ohio, USA
+8146	Robotum	Ankara, Ankara, Turkey
+8147	Ekinoks	BEYLİKDÜZÜ / İstanbul, Istanbul, Turkey
+8148	QUANTUM RANGERS	El Paso, Texas, USA
+8149	RoboTesla	Afyonkarahısar, Afyonkarahisar, Turkey
+8150	Tungsten	Houston, Texas, USA
+8151	WildFire	Istanbul, Istanbul, Turkey
+8152	Esscouade	Saint-Charles-de-Bellechasse, Québec, Canada
+8153	Les_Angles	Istanbul, Istanbul, Turkey
+8154	Gibuu	Aiyansh, British Columbia, Canada
+8155	Uranos	Antakya, Hatay, Turkey
+8156	Khalkedon TEAM	İstanbul, Istanbul, Turkey
+8157	St. Augustine Prep	Richland, New Jersey, USA
+8158	Bosphorus Robotics	Beşiktaş, Istanbul, Turkey
+8159	Golden Horn	Ataşehir, Istanbul, Turkey
+8160	Oly Rock Stars	Matteson, Illinois, USA
+8161	Chihuahuas Robotics Team	Chihuahua, Chihuahua, Mexico
+8162	FaTech	istanbul, Istanbul, Turkey
+8163	Dragon	Zhenjiang, Jiangsu, China
+8164	Mobius	Foshan, Guangdong, China
+8165	Bahlam Bots	Seattle, Washington, USA
+8166	INTECHNE	Pendik, Istanbul, Turkey
+8167	13 Cogs	Durham, Connecticut, USA
+8168	Northeast	Rochester, New York, USA
+8169	Kangshan Super Steel Robot	Kangshan, Kaohsiung, Chinese Taipei
+8170	Fi-Lab	Taipei, Taipei, Chinese Taipei
+8171	RL Robotics	Shanghai, Shanghai, China
+8172	Data Force	ShenZhen, Guangdong, China
+8173	Brighton College	Brighton, England, United Kingdom
+8174	Titans Robotics	Salt Lake City, Utah, USA
+8175	The Rebel Alliance	Emek Yizrael, HaZafon, Israel
+8176	Power Yunlin	Douliu City, Yunlin, Chinese Taipei
+8177	The Cybercats	Tomball, Texas, USA
+8178	Sky Honor	tainan city, Tainan Municipality, Chinese Taipei
+8179	DC Robotics	Dearborn, MI, Michigan, USA
+8180	ChainsMaker	Taipei, Taipei, Chinese Taipei
+8181	Bilsem Robotics	Başakşehir, Istanbul, Turkey
+8182	Loth Robotics	Beşiktaş, Istanbul, Turkey
+8183	WAO	shanghai, Shanghai, China
+8184	ROBOTTACK	Silivri, Istanbul, Turkey
+8185	Blue Sky Eagle	NANJING, Jiangsu, China
+8186	Belle Glade Boys & Girls Club	Belle Glade, Florida, USA
+8187	CyberPunks	Kyiv, Kyïv, Ukraine
+8188	Grand Force	Grand Forks, North Dakota, USA
+8189	SubCat Academy	Shanghai, Shanghai, China
+8190	İsov Robotic Team	İstanbul, Istanbul, Turkey
+8191	Barbados Robotics Team	Waterford, Saint Michael, Barbados
+8192	Luminous	Muratpaşa, Antalya, Turkey
+8193	New Lothrop Hornets	New Lothrop, Michigan, USA
+8197	AirTigers	Lanham, Maryland, USA
+8198	Baker Hornets	Mobile, Alabama, USA
+8200	ANATOLIAN BEES	Düzce, Düzce, Turkey
+8202	BeAr	Rancho Cucamonga, California, USA
+8203	ROBARGEM	ISTANBUL, Istanbul, Turkey
+8204	Keystone Robotics	Beijing, Beijing, China
+8205	Cape Fear Academy	Wilmington, North Carolina, USA
+8206	Team NeXT	newdelhi, Delhi, India
+8207	Orenda	Izmir, Izmir, Turkey
+8208	SYCAMORE	İstanbul, Istanbul, Turkey
+8209	SEZMECH	İstanbul, Istanbul, Turkey
+8210	Rambotics Inc.	Houston, Texas, USA
+8213	Trinity Christian High School	Monterey, California, USA
+8214	Cyber Unicorn	Shenzhen, Guangdong, China
+8215	G-UNIT	Istanbul, Istanbul, Turkey
+8216	Vision Robotics	Austin, Texas, USA
+8217	W-L Robotics	Arlington, Virginia, USA
+8218	German Engineering	Düsseldorf, Nordrhein-Westfalen, Germany
+8219	BG Robotics	Sofia, Sofia-Grad, Bulgaria
+8220	SPACETIGER	Yenişehir/Mersin, Mersin, Turkey
+8221	TEDES	eskisehir, Eskisehir, Turkey
+8222	Davis A&M	Cleveland, Ohio, USA
+8223	Mariners	Tel Aviv, Tel-Aviv, Israel
+8224	Vanguard Robotics	Saint-Laurent, Québec, Canada
+8225	Campus International High School	Cleveland, Ohio, USA
+8226	Hope	Tainan, Tainan, Chinese Taipei
+8229	Pollobots	Oakland, California, USA
+8230	Arlington Tech Robotics	Arlington, Virginia, USA
+8231	BWW	Kawasaki-city, Kanagawa, Japan
+8232	Girl Gang	Lafayette, Indiana, USA
+8233	Robo-Riff-Raff	New Braunfels, Texas, USA
+8234	Panther Robotics	Minneapolis, Minnesota, USA
+8235	Team NPSI	SINGAPORE, South West, Singapore
+8236	Ecobotic	Montreal, Québec, Canada
+8237	ESATA	Eskişehir, Eskisehir, Turkey
+8238	ESES	Odunpazarı, Eskisehir, Turkey
+8239	INTERNATIONAL YELKIKANAT ROBOT COMMUNITY	MALTEPE, Istanbul, Turkey
+8240	Atatürk Robotics	İstanbul, Istanbul, Turkey
+8241	THE SPARKS OF INNOVATION	New York, New York, USA
+8242	Tekno NFL	Niğde, Nigde, Turkey
+8243	John Marshall IT	Cleveland, Ohio, USA
+8244	Delfines CBTech	Tecámac, Mexico, Mexico
+8245	ROBEAL	Erdek, Balikesir, Turkey
+8246	Tuku	Sakarya , Sakarya, Turkey
+8247	Grandview Ze-Bots	Grandview, Texas, USA
+8248	ChainLynx	Seattle, Washington, USA
+8249	Jinfeng Dynamics	Shanghai, Shanghai, China
+8250	Rebel Robotics	Littleton, Colorado, USA
+8251	White cloud	guangzhou , Guangdong, China
+8252	Blue sword	foushan, Guangdong, China
+8253	Kapok	guangzhou, Guangdong, China
+8254	BEY-TEK	Beyoğlu, Istanbul, Turkey
+8255	Robodogs	Rolla, North Dakota, USA
+8256	Tecmilenio - ARMY ROBOT TECHNOLOGY	Alvarado, Veracruz, Mexico
+8257	Zombie Apocalypse Counter Task Force	Bronx, New York, USA
+8258	Les dragons	Toronto, Ontario, Canada
+8259	Geelong Community Robotics	Geelong, Victoria, Australia
+8260	ROBİLSA	Merkez, Afyonkarahisar, Turkey
+8261	PROGRESSUS	KUCUKCEKMECE, Istanbul, Turkey
+8262	Jump Robotics	Palo Alto, California, USA
+8263	CryptoMinds	Istanbul, Istanbul, Turkey
+8264	EKOBOT 41	İzmit, Kocaeli, Turkey
+8265	MCHS Knights	Mission, Texas, USA
+8266	CECyTECLR9	LAGUNA DEL REY, Coahuila, Mexico
+8267	Riptide	Long Beach, New York, USA
+8268	Ashley Bears	Ashley, Michigan, USA
+8269	Patrionauts	Perris, California, USA
+8270	Double N	Taipei, Taipei, Chinese Taipei
+8271	WESTSIDE	Augusta, Georgia, USA
+8272	Antimatter Neko	Hangzhou, Zhejiang, China
+8273	Titanibot	Beijing, Beijing, China
+8274	Sterling Raiders	Houston, Texas, USA
+8275	LMA Robotics	Grand Rapids, Michigan, USA
+8276	TRON#8276	São José dos Campos, São Paulo, Brazil
+8277	PEI Bots	Wheeling, Illinois, USA
+8278	Alpha Robotics	Burnaby, British Columbia, Canada
+8279	Lincoln Park Academy	Fort Pierce, Florida, USA
+8280	The School at Marygrove	Detroit, Michigan, USA
+8281	Allstars	San Jose, California, USA
+8282	Metal Minds Robotics	Evandale, Tasmania, Australia
+8283	Pantherbots	Denver, Colorado, USA
+8284	Urban Planners	Brooklyn, New York, USA
+8285	Ravenna Bulldogs Robotics	Ravenna, Michigan, USA
+8286	FAR	Farwell, Michigan, USA
+8287	Team Malfunction	Aston, Pennsylvania, USA
+8288	Machine Hunters	Monterrey, Nuevo León, Mexico
+8289	STEM+M Robotics	South Point, Ohio, USA
+8290	CETIS60	RAMOS ARIZPE, Coahuila, Mexico
+8291	Yellow Experience Bateil	Torreon, Coahuila, Mexico
+8292	FPC Bulldogs Robotics	Palm Coast, Florida, USA
+8293	WhiteFox Robotics FRC	Zapopan, Jalisco, Mexico
+8294	LVR Inn0vat0rs	Nelson, British Columbia, Canada
+8295	SparTex	El Paso, Texas, USA
+8296	Bengals	Scarborough, Ontario, Canada
+8297	WIHI Robo Wolves	Ypsilanti, Michigan, USA
+8298	RCR2184	Luverne, Minnesota, USA
+8299	FlexTech Brighton	Brighton, Michigan, USA
+8300	Lumen Christi Titans	Jackson, Michigan, USA
+8301	Sparks	San Diego, California, USA
+8302	Beamer Team	Federal Way, Washington, USA
+8303	G0LDEN_GAT0RS	Federal Way, Washington, USA
+8304	MaST	Morehead City, North Carolina, USA
+8305	Nepean Robotics	Nepean, Ontario, Canada
+8306	Sierra Linda High School Robotics	Phoenix, Arizona, USA
+8307	GRIZZLY	Gans, Oklahoma, USA
+8308	GFL	GÖLCÜK, Kocaeli, Turkey
+8309	DRAGONS	KÜÇÜKÇEKMECE, Istanbul, Turkey
+8310	ASO.TECHO	ANKARA, Ankara, Turkey
+8311	PRISER	Istanbul, Istanbul, Turkey
+8312	The Royals	Surrey, British Columbia, Canada
+8313	Waygooks	Camp Humphreys, Gyeonggido, South Korea
+8315	Sun Valley NJROTC High School	Monroe, North Carolina, USA
+8316	Les Cougars de L'Escale	Rockland, Ontario, Canada
+8317	South Kamloops Titans Robotics	Kamloops, British Columbia, Canada
+8318	RSS Robotics	Kelowna, British Columbia, Canada
+8319	HHS Robotics	Hillsboro, Texas, USA
+8320	Columbia International College 1	Hamilton, Ontario, Canada
+8321	BEMS	BEIJING, Beijing, China
+8322	Peter Skene Ogden Robotics	100 Mile House, British Columbia, Canada
+8323	Grand Marais Polar Bears	Grand Marais, Michigan, USA
+8324	Off Leash Robot	Orlando, Florida, USA
+8325	Bobcat Bots	Espanola, New Mexico, USA
+8326	GDS Mighty Hoppers	Washington, District of Columbia, USA
+8327	Paradise Rockets	Paradise, Michigan, USA
+8328	Miss Ice Bots	Pellston, Michigan, USA
+8329	Warrior 1	Redford, Michigan, USA
+8330	KillarneyRobotics39	Vancouver, British Columbia, Canada
+8331	Carson Graham Robotics	North Vancouver, British Columbia, Canada
+8332	Alternate Reality	Rochester, Michigan, USA
+8333	TOPAZ4X4	Beer Yakov, HaMerkaz, Israel
+8334	Titan Robotics	Colorado Springs, Colorado, USA
+8335	Escuela ORT Argentina	CABA, Ciudad Autónoma de Buenos Aires, Argentina
+8336	Wolf Corp. 12525	Walnut, California, USA
+8337	Central Creativity Team Wingnuts	Laurel, Mississippi, USA
+8338	Mount Boucherie Robotics	West Kelowna, British Columbia, Canada
+8339	Penticton Robotics	Penticton, British Columbia, Canada
+8340	YA	YARKA, HaZafon, Israel
+8341	Pizza Byte	Panama City, Panamá, Panama
+8342	MHS 2020	Manistee, Michigan, USA
+8343	Team Spring Valley	Suffern, New York, USA
+8344	OV Cardinal Robotics	Muskegon, Michigan, USA
+8345	John McCrae Secondary School	Nepean, Ontario, Canada
+8346	Brooklyn STEAM Machine	Brooklyn, New York, USA
+8347	Broken Eagles	New York Mills, Minnesota, USA
+8348	FG1946	tamra, HaZafon, Israel
+8349	Sacred Heart Robotics	Newmarket, Ontario, Canada
+8350	TISS Pirates	Brockville, Ontario, Canada
+8351	Oozma kappa	Chihuahua, Chihuahua, Mexico
+8352	M L King	Detroit, Michigan, USA
+8353	Botqueros 2 the FUTURE!	San Diego, Texas, USA
+8354	The Prairie Boys	BRANDON, Manitoba, Canada
+8355	Melanin Minds	Saint Paul, Minnesota, USA
+8356	Ironi Tet	Tel Aviv, Tel-Aviv, Israel
+8357	Chrysaora Robotics spr. by P.G. Co. 4-H and NASA	Clinton, Maryland, USA
