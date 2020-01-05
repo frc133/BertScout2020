@@ -108,7 +108,7 @@
 4109	Reynolds Robo Raiders	Troutdale, OR, USA
 4110	DEEP SPACE NINERS	Brookings, Oregon, USA
 4111	Some Assembly Required	Mesa, Arizona, USA
-4112	EagleBots	Cumming, Georgia, USA
+4112	EagleBots	Cumming , Georgia, USA
 4113	IHS Robotics	New Orleans, LA, USA
 4114	Pallindrones	Hemet, California, USA
 4115	Team Breaking Lights	Clarksville, Ohio, USA
@@ -212,7 +212,7 @@
 4216	Blue Ops Robotics	Jackson, Michigan, USA
 4217	Scitobors	Nashwauk, Minnesota, USA
 4218	Navigator Robotics	Kapolei, Hawaii, USA
-4219	R4 Robo Riders	San Antonio, Texas, USA
+4219	Robo Riders	San Antonio, Texas, USA
 4222	The Frolicking Nerds	Sanford, FL, USA
 4223	Robo-Flight-Transformer	Lakeland, FL, USA
 4224	The Robo-Rays	Naples, FL, USA
@@ -238,7 +238,7 @@
 4245	Robo Dragons	1304 Ashe Street, NC, USA
 4246	Resurrected Robotics	Troy, Illinois, USA
 4247	CougarBots	Milwaukee, Wisconsin, USA
-4248	Bits &amp; Pieces	Whitby, Ontario, Canada
+4248	Bits & Pieces	Whitby, Ontario, Canada
 4249	Tektronix	Brampton, ON, Canada
 4250	Comet-tron	Cobourg, ON, Canada
 4251	The Gallup GearHeads	Gallup, NM, USA
@@ -246,7 +246,7 @@
 4253	Raid Zero	Taipei, Taipei, Chinese Taipei
 4254	Varsity Robotics	Saratoga Springs, NY, USA
 4255	RoboDores	Monterey, California, USA
-4256	Cyborg Cats	Chesterfield, Missouri, USA
+4256	Cyborg Cats	TOWN AND COUNTRY, Missouri, USA
 4257	CyberDogs	Aurora, OR, USA
 4258	Thornhill Secondary School	Markham, ON, Canada
 4259	Robo Dragons	Nacogdoches, TX, USA
@@ -287,7 +287,7 @@
 4295	Hudson Robotics	Lufkin, Texas, USA
 4296	Trident Robotics	Gurnee, Illinois, USA
 4297	WENORoBoTS	Birmingham, AL, USA
-4298	C-RockBotics	Amarillo, Texas, USA
+4298	Lectric Longhorn Ranch	Amarillo, Texas, USA
 4299	BCS Robo Sharks	Brooklyn, New York, USA
 4300	The Lion Kings	McKinney, Texas, USA
 4301	SM Energy New Tech Narcissists	Odessa, Texas, USA
@@ -299,7 +299,7 @@
 4309	4-H Botsmiths	Snohomish, Washington, USA
 4310	NUKES	American Fork, Utah, USA
 4311	Swampscott Currents	Swampscott, Massachusetts, USA
-4314	SUL Abe-Ro-Bots	Springfield, Illinois, USA
+4314	SUL Abe-Ro-Bots	Springfield , Illinois, USA
 4315	Falcons	Dallas, TX, USA
 4316	Trobotics	Raceland, Louisiana, USA
 4317	Tech Busters	Denton, TX, USA
@@ -321,7 +321,7 @@
 4333	Team MOSI	Tampa, FL, USA
 4334	Alberta Tech Alliance (ATA)	Calgary, Alberta, Canada
 4335	Metallic Clouds	Waco, Texas, USA
-4336	Ramageddon	Lafayette, Louisiana, USA
+4336	Ramageddon Robotics	Lafayette, Louisiana, USA
 4337	R 13	Holton, Michigan, USA
 4338	Falcons	Even-Yehuda, HaMerkaz, Israel
 4339	Topsail FIRST Robotics	Hampstead, NC, USA
@@ -339,14 +339,14 @@
 4352	Generals	Jacksonville, Florida, USA
 4353	Krewe de Reauxbotics	Lafayette, Louisiana, USA
 4354	PengWINs	Dallas, Texas, USA
-4355	CP-BOTS	Gomez Palacio, Durango, Mexico
+4355	Peñoles-CP-BOTS	Gomez Palacio, Durango, Mexico
 4356	BIG Furious George	Chaffee, Missouri, USA
 4357	Spartans	Port Hope, Ontario, Canada
 4358	Ollibotics	Freiburg im Breisgau, BW, Germany
 4359	North Robotics	McKinney, TX, USA
 4360	Spudnik	Moorhead, Minnesota, USA
 4361	Roxbotix	Roxbury Township, New Jersey, USA
-4362	Gems	Brighton, Michigan, USA
+4362	CSPA Gems	Brighton, Michigan, USA
 4363	Unbolted Puppeteers	Hancock, MI, USA
 4364	Metal Jackets	Stephenville, Texas, USA
 4365	Torch Club	Hueytown, AL, USA
@@ -382,11 +382,11 @@
 4396	Gear Grinders	Memphis, Tennessee, USA
 4397	TEAM Clutch Robotics	Bagley, Minnesota, USA
 4398	Imprimis Deo	Traverse City, Michigan, USA
-4400	CERBOTICS	TORREON, Coahuila, Mexico
-4401	CETMOV	Laguna del Rey Coahuila, Coahuila, Mexico
+4400	PEÑOLES - CERBOTICS	TORREON, Coahuila, Mexico
+4401	Peñoles - CETMOV	Laguna del Rey Coahuila, Coahuila, Mexico
 4402	Connectors	West Plains, MO, USA
-4403	PrepaTec - ROULT	Torreon, Coahuila, Mexico
-4404	Nuts &amp; Colts	Chesterfield, Missouri, USA
+4403	PrepaTec - PEÑOLES - ROULT	Torreon, Coahuila, Mexico
+4404	Nuts & Colts	Chesterfield, Missouri, USA
 4405	The Atoms Family	Canton, Michigan, USA
 4406	Robotic Legends	Tel Aviv, Tel-Aviv, Israel
 4407	Virtualosity	Jackson, MI, USA
@@ -400,11 +400,13 @@
 4415	EPIC Robotz	Cerritos, California, USA
 4416	Skynet	Ramat Hasharon, Tel-Aviv, Israel
 4418	Team IMPULSE	Highlands Ranch, Colorado, USA
+4419	Team Rewind	San Marcos, California, USA
+4420	Swarm Storm	Torrington, Connecticut, USA
 4450	Olympia Robotics Federation	Olympia, Washington, USA
 4451	ROBOTZ Garage	Laurens, South Carolina, USA
 4452	First Noble Team	Seneca, South Carolina, USA
 4453	The Red Hot Chili Bots	Marshall, Michigan, USA
-4454	Artisan Rockets	Philadelphia, Pennsylvania, USA
+4454	SLAM Robotics	Philadelphia, Pennsylvania, USA
 4455	The Burger Bots	Warrensburg, Missouri, USA
 4456	Mech Cadets	Washington, District of Columbia, USA
 4457	Controlled Chaotic Robotics	Portland, OR, USA
@@ -473,7 +475,7 @@
 4520	Misfit Toys	Rathdrum, ID, USA
 4521	Harrison Robotics	Harrison, Ohio, USA
 4522	Team SCREAM	Sedalia, Missouri, USA
-4523	MCROBO	Mayes County, Oklahoma, USA
+4523	MCROBO	Mayes County , Oklahoma, USA
 4524	The Memphis MechWarriors	Memphis, Tennessee, USA
 4525	Renaissance Robotics	St. Thomas, Ontario, Canada
 4526	Léoméga	Terrebonne, Québec, Canada
@@ -483,7 +485,7 @@
 4530	D3A	Jacksonville, FL, USA
 4531	STEMpunk	Two Rivers, Wisconsin, USA
 4532	LAN Jaguars FIRST Robotics	Sherwood, AR, USA
-4533	Wando Adv. Robotics	Mt Pleasant, South Carolina, USA
+4533	Wando Advanced Robotics	Mt Pleasant, South Carolina, USA
 4534	Wired Wizards	Wilmington, North Carolina, USA
 4535	PA Bruins	Little Rock, AR, USA
 4536	MinuteBots	Saint Paul, Minnesota, USA
@@ -496,11 +498,11 @@
 4543	The Illuminators	San Jose, California, USA
 4544	The Levitating Potatoes	San Rafael, CA, USA
 4545	GOLDEN KNIGHTS	Indianapolis, IN, USA
-4546	ShockWave	Dover, New Hampshire, USA
+4546	Shockwave	Dover, New Hampshire, USA
 4547	WestyTek	Johnstown, Pennsylvania, USA
 4548	Omak FFA Wonders	Omak, WA, USA
 4549	Iron Bulls	South Saint Paul, Minnesota, USA
-4550	Something's Bruin	Greenwood Village, Colorado, USA
+4550	Something's Bruin	Greenwood Village , Colorado, USA
 4551	Robotic Rangers	Chicago, IL, USA
 4552	Robotic Tigers	Slaton, TX, USA
 4553	Patriobots	Columbus, Mississippi, USA
@@ -553,7 +555,7 @@
 4600	Tech Titans	Saint Louis, Missouri, USA
 4601	Circuit Birds	Canfield, Ohio, USA
 4602	Calgary First Nation team	Calgary, AB, Canada
-4603	Leones Francés	Gomez Palacio, Durango, Mexico
+4603	Peñoles Leones Francés 4603	Gomez Palacio , Durango, Mexico
 4604	Intimitrons from Area 51	Calgary, Alberta, Canada
 4605	Calgary Ismaili Team	Calgary, AB, Canada
 4606	Team 4606, "Larry"	Calgary, AB, Canada
@@ -624,7 +626,7 @@
 4671	Mechaneers	Pierz, Minnesota, USA
 4672	Youth in Black	San Antonio, TX, USA
 4673	Solar Engineering	Mexicali, BCN, Mexico
-4674	Robojacks	Bemidji, Minnesota, USA
+4674	RoboJacks	Bemidji, Minnesota, USA
 4675	Eagles	North Olmsted, OH, USA
 4676	Battery Chargers	Palos Hills, Illinois, USA
 4677	RHHS Robotics Team	Richmond Hill, ON, Canada
@@ -633,7 +635,7 @@
 4680	AzTech Eagles	Detroit, Michigan, USA
 4681	Murphy's law	Everett, Washington, USA
 4682	BraveBots	Seattle, Washington, USA
-4683	Full Metal Robotics	Marysville, Washington, USA
+4683	Full Metal Robotics	Marysville , Washington, USA
 4684	eSharks	Yonkers, New York, USA
 4685	Aztlavolt	Azcapotzalco, Distrito Federal, Mexico
 4686	Nay Ah Shing	Onamia, MN, USA
@@ -653,11 +655,11 @@
 4700	Wolves	Battle Creek, MI, USA
 4701	Warriors (Team W.I.R.E.)	Savannah, Georgia, USA
 4702	CyberDoggz	Chicago, Illinois, USA
-4703	Robotic Gigabots	Menahga, Minnesota, USA
+4703	Robotic Gigabots$	Menahga, Minnesota, USA
 4704	Northern Lights Robotics	Timmins, Ontario, Canada
 4705	Full Metal Kats	Fontana, CA, USA
 4706	Bulls	Miami, FL, USA
-4707	TEAM FORCE	Santo Domingo, Santo Domingo, Dominican Republic
+4707	FORCE	Santo Domingo, Santo Domingo, Dominican Republic
 4708	G-Force	Nave Eitan, Z, Israel
 4709	Stem-azing	Riverside, CA, USA
 4710	Bot-Busters	Shingle Springs, CA, USA
@@ -679,13 +681,13 @@
 4726	Robo Dynasty	Asotin, Washington, USA
 4727	RoboFX	Ottawa, ON, Canada
 4728	Rocori Rench Reckers	Cold Spring, Minnesota, USA
-4729	EMUs (Experimental Mayhem Unit)	Sydney, New South Wales, Australia
+4729	EMU Robotics	Sydney, New South Wales, Australia
 4730	Terminators	Albany, Georgia, USA
 4731	PrepaTec - MONARCH-E	Morelia, Michoacán, Mexico
 4732	SWC Robotics	Thunder Bay, Ontario, Canada
 4733	Scarlett Robotics	Calgary, Alberta, Canada
 4734	The Iron Plainsmen	Lubbock, Texas, USA
-4735	Tecmilenio - DEROF - 4735	Torreon, Coahuila, Mexico
+4735	Tecmilenio - Peñoles - DEROF - 4735	Torreon, Coahuila, Mexico
 4736	Temp	Rancho Cucamonga, CA, USA
 4737	Atomigators	West Bloomfield, Michigan, USA
 4738	Patribots	San Diego, California, USA
@@ -717,7 +719,7 @@
 4765	PWRUP	Los Altos Hills, California, USA
 4766	--	--
 4767	C4	Shelby, North Carolina, USA
-4768	Comets	Detroit, Michigan, USA
+4768	Cody Comets	Detroit, Michigan, USA
 4769	Nerdvana	Saint Petersburg, Florida, USA
 4770	EDW Robotics	Thibodaux, LA, USA
 4771	Match	Morelia, MIC, Mexico
@@ -737,7 +739,7 @@
 4785	Cougar Robotics	Clovis, CA, USA
 4786	Nicolet FEAR	Milwaukee, Wisconsin, USA
 4787	Axiom	Chicago, Illinois, USA
-4788	Ace of Spanners	Bentley, Western Australia, Australia
+4788	Can't Control	Perth, Western Australia, Australia
 4789	VB Electras	Queens Village, NY, USA
 4790	Yigal-Alon	Rishon Le-Zion, TA, Israel
 4791	Pandroids	South Bend, Indiana, USA
@@ -765,12 +767,12 @@
 4813	NOT PAY FOR THIS TEAM	Shen zhen, 44, China
 4814	WE MARS Incubator	London, Ontario, Canada
 4815	ELECTROPANTHERS	Center Line, Michigan, USA
-4816	Gadget Girls	Raleigh, North Carolina, USA
+4816	holographic	Raleigh, North Carolina, USA
 4817	One Degree North	Singapore, Central Singapore, Singapore
 4818	The Herd	West Fargo, North Dakota, USA
 4819	Flat Mountain Mechanics	Mount Pleasant, Michigan, USA
 4820	Huey Tlatoani	Zapopan, JAL, Mexico
-4821	CyberUS	Washington, District of Columbia, USA
+4821	cyberUs	Washington, District of Columbia, USA
 4822	Bemidji LumberBots	Bemidji, MN, USA
 4823	Metal Manes	Loris, South Carolina, USA
 4824	BerryBotics	Logansport, Indiana, USA
@@ -862,7 +864,7 @@
 4951	CDS Cyclones	King, Ontario, Canada
 4952	Les Carnicas	Magog, Québec, Canada
 4953	Laser Beam	Shenzhen, Guangdong, China
-4954	Palindrome Robotics	Wilmington, Delaware, USA
+4954	Palindrome Robotics	Newark, Delaware, USA
 4955	LA Tech	Lachine, Québec, Canada
 4956	RoboSharks	Whitehall, Michigan, USA
 4957	Lynx	Montréal, Québec, Canada
@@ -898,9 +900,9 @@
 4987	MegaRams	Worcester, Massachusetts, USA
 4988	Yooper Troopers	Cedarville, Michigan, USA
 4989	Jaguars	Memphis, Tennessee, USA
-4990	Gryphon Robotics	Burlingame, California, USA
+4990	Gryphon Robotics	Hillsborough, California, USA
 4991	Horsepower	Bridgeville, Pennsylvania, USA
-4992	SparBotics	Milton, Ontario, Canada
+4992	Sparbotics	Milton, Ontario, Canada
 4993	Molten Steel	Hutchinson, Minnesota, USA
 4994	Kingston Robo-Cards	Kingston, Michigan, USA
 4995	Rockets	Paradise, Michigan, USA

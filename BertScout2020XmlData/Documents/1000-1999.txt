@@ -107,7 +107,7 @@
 1118	NERDS INC.	Knoxville, TN, USA
 1120	Milpitas Xtreme Robotics	Milpitas, CA, USA
 1122	Railbots	Cleveland, OH, USA
-1123	AIM Robotics	Fairfax, Virginia, USA
+1123	AIM ? Robotics	Fairfax, Virginia, USA
 1124	UberBots	Avon, Connecticut, USA
 1125	Broncos	San Diego, CA, USA
 1126	SPARX	Webster, New York, USA
@@ -134,14 +134,14 @@
 1150	--	Camp Verde, AZ, USA
 1151	The Hitchhikers	San Pablo, CA, USA
 1152	Blue Stars	Hyde Park, MA, USA
-1153	Walpole Robotics Revolution	Walpole, Massachusetts, USA
+1153	The Revolution	Walpole, Massachusetts, USA
 1154	Harrisonburg High School Blue Streaks	Harrisonburburg, VA, USA
 1155	SciBorgs	Bronx, New York, USA
 1156	Under Control	Novo Hamburgo, Rio Grande do Sul, Brazil
 1157	Landsharks	Boulder, Colorado, USA
 1158	The Corps	Collbran, CO, USA
 1159	Ramona Rampage	Alhambra, California, USA
-1160	Titanium	San Marino, California, USA
+1160	Titanium Robotics	San Marino, California, USA
 1161	--	Brighton, MA, USA
 1162	--	Canutillo, TX, USA
 1163	Trojan Horses	Faulkton, SD, USA
@@ -161,7 +161,7 @@
 1184	Cobra Robotics	Bel Air, MD, USA
 1185	The X-Bots	Pittsburgh, PA, USA
 1187	Brick City Flame	Newark, NJ, USA
-1188	RoboRavens	Royal Oak, Michigan, USA
+1188	Ravens	Royal Oak, Michigan, USA
 1189	The Gearheads	Grosse Pointe, Michigan, USA
 1190	ANONOBOTS	Aurora, CO, USA
 1191	Eagles	Pittsburgh, PA, USA
@@ -215,7 +215,7 @@
 1248	TITANium Allies	Berea, Ohio, USA
 1249	Robo Rats	Delbarton, West Virginia, USA
 1250	Gator-Bots	Dearborn, Michigan, USA
-1251	Tech-Tiger Robotics, 4-H	Tamarac, Florida, USA
+1251	Tech-Tigers Robotics	Tamarac, Florida, USA
 1254	Tech Force	Lawrence, Michigan, USA
 1255	Blarglefish	Baytown, Texas, USA
 1256	Highlanders	Howell, MI, USA
@@ -260,7 +260,7 @@
 1303	WYOHAZARD	Casper, Wyoming, USA
 1304	N.O. Botics	New Orleans, LA, USA
 1305	Ice Cubed	North Bay, Ontario, Canada
-1306	BadgerBOTS	Madison, Wisconsin, USA
+1306	BadgerBOTS	Middleton, Wisconsin, USA
 1307	Robosaints	Dover, New Hampshire, USA
 1308	Wildcats	Cleveland, Ohio, USA
 1309	Diamond Eagles	Toronto, ON, Canada
@@ -281,7 +281,7 @@
 1329	ROBOREBELS	St. Louis, Missouri, USA
 1330	Quiet Riot	Toronto, ON, Canada
 1331	Broot Force	Bloomington, IN, USA
-1332	Swift	Collbran, Colorado, USA
+1332	SWIFT	Collbran, Colorado, USA
 1334	Red Devils	Oakville, Ontario, Canada
 1335	Cognitive Hazard	Raymond, NH, USA
 1336	The Untouchables	Lexington, SC, USA
@@ -322,17 +322,17 @@
 1375	The Drifters	Aurora, CO, USA
 1376	The Spaceballs	Snellville, GA, USA
 1377	Adams 12 Aliens	Thornton, CO, USA
-1378	Hilo Viking Robotics	Hilo, Hawaii, USA
+1378	Hilo Viking Robotics (HVR 1378)	Hilo, Hawaii, USA
 1379	Gear Devils	Norcross, GA, USA
 1380	--	Lilburn, GA, USA
-1382	ETEP Team	Sao Jose dos Campos, São Paulo, Brazil
+1382	ETEP Team	São José dos Campos, São Paulo, Brazil
 1384	Vineland High School Fighting Clan	Vineland, NJ, USA
 1385	The Brainstormers	Waterloo, ON, Canada
 1386	The Trobots	Canton, OH, USA
 1387	Rudy's Rangers	Fair Oaks, CA, USA
 1388	Eagle Robotics	Arroyo Grande, California, USA
 1389	The Body Electric	Bethesda, Maryland, USA
-1390	MEKHEADS	St. Cloud &amp; Harmony, FL, USA
+1390	MEKHEADS	St. Cloud & Harmony, FL, USA
 1391	The Metal Moose	West Chester, Pennsylvania, USA
 1392	KINEMATRIX	Ajax, ON, Canada
 1393	Nordic Legions	Albuquerque, NM, USA
@@ -441,7 +441,7 @@
 1514	The Vikes	Toronto, ON, Canada
 1515	MorTorq	Beverly Hills, California, USA
 1516	Grizzlies	San Ramon, California, USA
-1517	The Lumberjacks	Concord, New Hampshire, USA
+1517	AMP'D UP	Concord, New Hampshire, USA
 1518	Raider Robotics	Palmyra, New York, USA
 1519	Mechanical Mayhem	Milford, New Hampshire, USA
 1520	Omega - 13	New York, NY, USA
@@ -460,7 +460,7 @@
 1535	Knights of Alloy	Sault Ste Marie, ON, Canada
 1537	Robotic Knights	Uniondale, New York, USA
 1538	The Holy Cows	San Diego, California, USA
-1539	Clover Robotics	Clover, South Carolina, USA
+1539	Royal Robotics Team 1539	Clover, South Carolina, USA
 1540	Flaming Chickens	Portland, Oregon, USA
 1541	MidloCanics	Midlothian, Virginia, USA
 1542	Heart of London	London, ENG, Kingdom
@@ -612,6 +612,7 @@
 1706	Ratchet Rockers	Wentzville, Missouri, USA
 1707	NH Indians	Pghp, PA, USA
 1708	AMP'D Robotics	McKeesport, Pennsylvania, USA
+1709	Sparks	Poway, California, USA
 1710	The Ravonics Revolution	Olathe, Kansas, USA
 1711	RAPTORS	Traverse City, Michigan, USA
 1712	Dawgma	Ardmore, Pennsylvania, USA
@@ -621,8 +622,8 @@
 1716	Redbird Robotics	De Pere, Wisconsin, USA
 1717	D'Penguineers	Goleta, California, USA
 1718	The Fighting Pi	Armada, Michigan, USA
-1719	The Umbrella Corporation	Pikesville, Maryland, USA
-1720	PhyXTGears	Muncie, Indiana, USA
+1719	The Umbrella Corporation	Baltimore, Maryland, USA
+1720	PhyXTGears	Matthews, Indiana, USA
 1721	Tidal Force	Concord, New Hampshire, USA
 1722	Rebel Innovators	La Canada, CA, USA
 1723	The FBI - FIRST Bots of Independence	Independence, Missouri, USA
@@ -630,7 +631,7 @@
 1725	Worcester Public School Girls All Star	Worcester, MA, USA
 1726	N.E.R.D.S. (Nifty Engineering Robotics Design Squad)	Sierra Vista, Arizona, USA
 1727	REX	Lutherville Timonium, Maryland, USA
-1728	B.L.I.N.G. (Bausch &amp; Lomb Inspires &amp; Nurtures Growth)	Rochester, NY, USA
+1728	B.L.I.N.G. (Bausch & Lomb Inspires & Nurtures Growth)	Rochester, NY, USA
 1729	Team Inconceivable!	Peterborough, New Hampshire, USA
 1730	Team Driven	Lees Summit, Missouri, USA
 1731	Fresta Valley Robotics Club	Warrenton, Virginia, USA
@@ -672,7 +673,7 @@
 1768	RoboChiefs	Bolton, Massachusetts, USA
 1769	Digital Hawks	Kansas City, Kansas, USA
 1770	Alpha Woverines	Chicago, IL, USA
-1771	Electric Phoenixes	Suwanee, Georgia, USA
+1771	North Gwinnett Robotics	Suwanee, Georgia, USA
 1772	The Brazilian Trail Blazers	Gravatai, Rio Grande do Sul, Brazil
 1774	Athena's Engineers	Pittsburg, TX, USA
 1775	Tigerbytes	Kansas City, Missouri, USA
@@ -687,7 +688,7 @@
 1784	Litchbots	Litchfield, CT, USA
 1785	Blue Springs Robocats	Blue Springs, Missouri, USA
 1786	The Robotics Team	Dublin, New Hampshire, USA
-1787	Flying Circuits	Cleveland, Ohio, USA
+1787	Flying Circuits	Pepper Pike, Ohio, USA
 1788	Ravage	Atlanta, GA, USA
 1789	Cliffhangers	Kremmling, CO, USA
 1790	Team 1881	Paterson, NJ, USA
@@ -820,7 +821,7 @@
 1937	Elysium	Modi'in-Maccabim Reu't, HaMerkaz, Israel
 1938	Manhattan High School	Manhattan, MT, USA
 1939	THE KUHNIGITS	Kansas City, Missouri, USA
-1940	The Tech Tigers	Benton Harbor, Michigan, USA
+1940	Tech Tigers	Benton Harbor, Michigan, USA
 1941	Detroit Rocks Robotics	Detroit, MI, USA
 1942	Cinderella Tel-Nof	Gadera, HaMerkaz, Israel
 1943	Neat Team	Rosh Hayin, HaMerkaz, Israel

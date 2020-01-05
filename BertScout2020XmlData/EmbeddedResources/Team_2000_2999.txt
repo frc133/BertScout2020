@@ -43,7 +43,7 @@
 2046	Bear Metal	Maple Valley, Washington, USA
 2047	Team Challenger	Chicago, IL, USA
 2048	The Pink Panthers	Detroit, Michigan, USA
-2049	G√™nesis Technology	Gravata√≠, RS, Brazil
+2049	GÍnesis Technology	GravataÌ, RS, Brazil
 2050	SEB	Detroit, MI, USA
 2051	The Beattie Bulldogs	Allison Park, Pennsylvania, USA
 2052	KnightKrawler	New Brighton, Minnesota, USA
@@ -120,7 +120,7 @@
 2134	Aztecs	Tempe, AZ, USA
 2135	Presentation Invasion	San Jose, California, USA
 2136	Impossible Mission Force	Chicago, Illinois, USA
-2137	T.O.R.C.	Oxford, Michigan, USA
+2137	The Oxford RoboCats	Oxford, Michigan, USA
 2139	Road Runners	Las Vegas, NV, USA
 2140	Team Synergy	Pemberton, NJ, USA
 2141	Spartonics	Concord, California, USA
@@ -173,7 +173,7 @@
 2192	YAK Attack	Newport, OR, USA
 2193	EPIC Robotics	Chula Vista, CA, USA
 2194	Fondy Fire	Fond du Lac, Wisconsin, USA
-2196	B√©√©sh B√°'√°h Alchini	Shiprock, NM, USA
+2196	BÈÈsh B·'·h Alchini	Shiprock, NM, USA
 2197	Las Pumas	New Carlisle, Indiana, USA
 2198	Paradigm Shift	Toronto, Ontario, Canada
 2199	Robo-Lions	Finksburg, Maryland, USA
@@ -221,7 +221,7 @@
 2244	The Chips	Osasco, SP, Brazil
 2245	PANTHERS	Frankfort, MI, USA
 2246	The Army of Sum	Johannesburg, Michigan, USA
-2247	FB HT	Gravata√≠, RS, Brazil
+2247	FB HT	GravataÌ, RS, Brazil
 2249	KISS	Billings, MT, USA
 2250	Lancerbotics	Denver, CO, USA
 2251	Hawks	Bozeman, MT, USA
@@ -473,7 +473,7 @@
 2573	Mustang	Brooklyn, NY, USA
 2574	RoboHuskie	St. Anthony, Minnesota, USA
 2575	White Hurricane	Santa Branca, SP, Brazil
-2576	Chilean Heart	Santiago, Regi√≥n Metropolitana de Santiago, Chile
+2576	Chilean Heart	Santiago, RegiÛn Metropolitana de Santiago, Chile
 2577	Pingry Robotics	Basking Ridge, New Jersey, USA
 2579	LIC Robodogs	Astoria, New York, USA
 2580	Mecha-Knights	New Orleans, LA, USA
@@ -519,7 +519,7 @@
 2623	lovenpeace	Antioch, CA, USA
 2624	BotCatz	Toronto, ON, Canada
 2625	ARC Robotics	Mississauga, ON, Canada
-2626	Evolution	Sherbrooke, Qu√©bec, Canada
+2626	Evolution	Sherbrooke, QuÈbec, Canada
 2627	Techies	Ann Arbor, MI, USA
 2628	Pirates	San Francisco, CA, USA
 2629	Halcones	QUERETARO, OAX, Mexico
@@ -542,11 +542,11 @@
 2650	ELAHLYA	Om- Elfahem, HA, Israel
 2652	Highlander Engineering and Technology	El Paso, TX, USA
 2653	Master Robotics	Aracaju, SE, Brazil
-2654	Rams	Roseau, Minnesota, USA
+2654	Polar Rams	Roseau, Minnesota, USA
 2655	The Flying Platypi	Greensboro, North Carolina, USA
 2656	Quasics	Monroeville, Pennsylvania, USA
 2657	Team Thundercats	Deming, New Mexico, USA
-2658	Œ£-Motion	San Diego, California, USA
+2658	S-Motion	San Diego, California, USA
 2659	RoboWarriors	Mission Hills, California, USA
 2660	Pengbots	Tulalip, Washington, USA
 2661	Trailblazers	Chatsworth, CA, USA
@@ -565,9 +565,9 @@
 2676	Ecorse Robo Raiders	Ecorse, Michigan, USA
 2678	Brauder	Jerusalem, JM, Israel
 2679	Tiger Team	Jerusalem, Yerushalayim, Israel
-2680	Vex Minas	Minas do Le√£o, RS, Brazil
+2680	Vex Minas	Minas do Le„o, RS, Brazil
 2681	Lady G-House Pirates	Brooklyn, NY, USA
-2682	Boneyard Robotics	Winterville, North Carolina, USA
+2682	Boneyard Robotics 2682	Farmville, North Carolina, USA
 2685	Team Haven	Byfield, MA, USA
 2686	The Memphis MechWarriors	Memphis, Tennessee, USA
 2687	Team Apprentice	Austin, Texas, USA
@@ -583,7 +583,8 @@
 2711	Centaurus Robotics	Lafayette, CO, USA
 2712	Power Surge 4-H Robotics	Woodbury, Connecticut, USA
 2713	iRaiders	Melrose, Massachusetts, USA
-2714	‚ô®Ô∏è BBQ ‚ô®Ô∏è	Dallas, Texas, USA
+2714	?? BBQ ??	Dallas, Texas, USA
+2716	Ranger Force	Spencerport, New York, USA
 2719	Ketronix Robotix	Monroe, MI, USA
 2721	Fang	Lasara, Texas, USA
 2723	Team Rocket	Oklahoma City, Oklahoma, USA
@@ -784,7 +785,7 @@
 2991	Boxer Bots	Houston, TX, USA
 2992	The S.S. Prometheus	Mandeville, Louisiana, USA
 2993	InTech MegaBots	Logan, Utah, USA
-2994	ASTECHZ	Kanata, Ontario, Canada
+2994	ASTECHZ	Ottawa, Ontario, Canada
 2995	"Mountain Force Robotics"	Dallas, TX, USA
 2996	Cougars Gone Wired	Colorado Springs, Colorado, USA
 2998	VikingBots	Richmond, Virginia, USA

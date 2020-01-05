@@ -107,7 +107,7 @@
 1118	NERDS INC.	Knoxville, TN, USA
 1120	Milpitas Xtreme Robotics	Milpitas, CA, USA
 1122	Railbots	Cleveland, OH, USA
-1123	AIM Robotics	Fairfax, Virginia, USA
+1123	AIM ? Robotics	Fairfax, Virginia, USA
 1124	UberBots	Avon, Connecticut, USA
 1125	Broncos	San Diego, CA, USA
 1126	SPARX	Webster, New York, USA
@@ -141,7 +141,7 @@
 1157	Landsharks	Boulder, Colorado, USA
 1158	The Corps	Collbran, CO, USA
 1159	Ramona Rampage	Alhambra, California, USA
-1160	Titanium	San Marino, California, USA
+1160	Titanium Robotics	San Marino, California, USA
 1161	--	Brighton, MA, USA
 1162	--	Canutillo, TX, USA
 1163	Trojan Horses	Faulkton, SD, USA
@@ -302,7 +302,7 @@
 1352	Huskie Robotics	Stratford, ON, Canada
 1353	The Spartans	Mississauga, ON, Canada
 1355	Stallions	Wingham, ON, Canada
-1356	Ã‰coles secondaires l'Essor et Lajeunesse	Tecumseh, ON, Canada
+1356	Écoles secondaires l'Essor et Lajeunesse	Tecumseh, ON, Canada
 1357	High Voltage	Loveland, CO, USA
 1358	The Generals	Levittown, NY, USA
 1359	Scalawags	Lebanon, Oregon, USA
@@ -322,10 +322,10 @@
 1375	The Drifters	Aurora, CO, USA
 1376	The Spaceballs	Snellville, GA, USA
 1377	Adams 12 Aliens	Thornton, CO, USA
-1378	Hilo Viking Robotics	Hilo, Hawaii, USA
+1378	Hilo Viking Robotics (HVR 1378)	Hilo, Hawaii, USA
 1379	Gear Devils	Norcross, GA, USA
 1380	--	Lilburn, GA, USA
-1382	ETEP Team	Sao Jose dos Campos, SÃ£o Paulo, Brazil
+1382	ETEP Team	São José dos Campos, São Paulo, Brazil
 1384	Vineland High School Fighting Clan	Vineland, NJ, USA
 1385	The Brainstormers	Waterloo, ON, Canada
 1386	The Trobots	Canton, OH, USA
@@ -528,7 +528,7 @@
 1606	Division Dragons	Levittown, NY, USA
 1607	Rough Riders	Roosevelt, NY, USA
 1609	West Allied Robotics -W.A.R.	Ballwin, MO, USA
-1610	â›´ Blackwater Robotics â›´	Franklin, Virginia, USA
+1610	? Blackwater Robotics ?	Franklin, Virginia, USA
 1611	NOS	Guyton, GA, USA
 1612	Robo-Sharks	Brooksville, FL, USA
 1613	StARC	San Diego, CA, USA
@@ -612,7 +612,7 @@
 1706	Ratchet Rockers	Wentzville, Missouri, USA
 1707	NH Indians	Pghp, PA, USA
 1708	AMP'D Robotics	McKeesport, Pennsylvania, USA
-1709	Sparks	San Diego, California, USA
+1709	Sparks	Poway, California, USA
 1710	The Ravonics Revolution	Olathe, Kansas, USA
 1711	RAPTORS	Traverse City, Michigan, USA
 1712	Dawgma	Ardmore, Pennsylvania, USA
@@ -623,7 +623,7 @@
 1717	D'Penguineers	Goleta, California, USA
 1718	The Fighting Pi	Armada, Michigan, USA
 1719	The Umbrella Corporation	Baltimore, Maryland, USA
-1720	PhyXTGears	Muncie, Indiana, USA
+1720	PhyXTGears	Matthews, Indiana, USA
 1721	Tidal Force	Concord, New Hampshire, USA
 1722	Rebel Innovators	La Canada, CA, USA
 1723	The FBI - FIRST Bots of Independence	Independence, Missouri, USA
@@ -688,7 +688,7 @@
 1784	Litchbots	Litchfield, CT, USA
 1785	Blue Springs Robocats	Blue Springs, Missouri, USA
 1786	The Robotics Team	Dublin, New Hampshire, USA
-1787	Flying Circuits	Cleveland, Ohio, USA
+1787	Flying Circuits	Pepper Pike, Ohio, USA
 1788	Ravage	Atlanta, GA, USA
 1789	Cliffhangers	Kremmling, CO, USA
 1790	Team 1881	Paterson, NJ, USA
@@ -751,7 +751,7 @@
 1856	Gear Heads	Redford, MI, USA
 1858	Spartans	Slidell, LA, USA
 1859	RoboJacks	Bogalusa, LA, USA
-1860	Alphabots	Sao Jose dos Campos, SÃ£o Paulo, Brazil
+1860	Alphabots	Sao Jose dos Campos, São Paulo, Brazil
 1861	SHARC	Aurora, CO, USA
 1862	Red Raiders	Cliffside Park, NJ, USA
 1863	Titan it up!	Tulsa, OK, USA

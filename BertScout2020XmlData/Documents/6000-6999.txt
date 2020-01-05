@@ -47,7 +47,7 @@
 6046	Tecking	King City, Ontario, Canada
 6047	Proctor Frostbyte	Proctor, Minnesota, USA
 6048	Ant-valanche	Querétaro, Querétaro, Mexico
-6049	Titan X	Dimona, HaDarom, Israel
+6049	Pegasus	Dimona, HaDarom, Israel
 6050	Wee Waa Bush Bots	Wee Waa, New South Wales, Australia
 6051	Rocktap	Converse, Texas, USA
 6052	Clarke Road Trojans	London, Ontario, Canada
@@ -74,7 +74,7 @@
 6073	Cav-Bots	Saginaw, Michigan, USA
 6074	RoboBucks	Roscommon, Michigan, USA
 6075	Leland Zebrotics	Leland, Michigan, USA
-6076	Mustangs	Northport, Washington, USA
+6076	Mustang Mechanica	Northport, Washington, USA
 6077	Wiking Kujon	Posen, Michigan, USA
 6078	RoboRams	Holt, Michigan, USA
 6079	JET SET	Powers, Michigan, USA
@@ -98,7 +98,7 @@
 6097	Botcats	Brethren, Michigan, USA
 6098	bIrobot	Beaver Island, Michigan, USA
 6099	Knight Riders	Detroit, Michigan, USA
-6100	MSMohawks	Morley, Michigan, USA
+6100	MS Mobots	Morley, Michigan, USA
 6101	Strange Quarks	Ann Arbor, Michigan, USA
 6102	Mustangs	Blanchard, Michigan, USA
 6103	Space Pirates	Plaquemine, Louisiana, USA
@@ -112,14 +112,14 @@
 6111	RoboKnights	Houston, Texas, USA
 6112	Cyberstangs	Munising, Michigan, USA
 6113	M.A.R.C. 1	Menominee, Michigan, USA
-6114	Hawks Do the Thing	Hamilton, Michigan, USA
+6114	Do the Thing	Hamilton, Michigan, USA
 6115	Ellington Saints	Grand Rapids, MI, USA
 6116	Cougar Robotics	Garden City, Michigan, USA
 6117	Wingspan	Pontiac, Michigan, USA
 6118	Dunedoo Central School	Dunedoo, New South Wales, Australia
 6119	Prototype Pumas	Coldwater, Michigan, USA
-6120	Cyberstangs	New Haven, Michigan, USA
-6121	Robo Vikes	Grayling, Michigan, USA
+6120	CyberStangs	New Haven, Michigan, USA
+6121	RoboVikes	Grayling, Michigan, USA
 6122	Potential Energy	Bear Lake, Michigan, USA
 6123	Mad Scientist Club	Lake Elsinore, California, USA
 6124	Overdrive	Fontana, California, USA
@@ -136,10 +136,10 @@
 6135	Arctos	Toronto, Ontario, Canada
 6136	The Robo Ravens 6136	Detroit, Michigan, USA
 6137	Falcon Robotics	Constantine, Michigan, USA
-6138	Bulldogs	Centreville, Michigan, USA
+6138	Dogbotics 1	Centreville, Michigan, USA
 6139	ThunderBotz	Dublin, Georgia, USA
 6140	SMT Titans	Scarborough, Ontario, Canada
-6141	Senator O'Connor College School	Toronto, Ontario, Canada
+6141	O'Connor Robotics	Toronto, Ontario, Canada
 6142	Cross Keys High School	Atlanta, Georgia, USA
 6143	APEX Automation	Sarver, Pennsylvania, USA
 6144	Angelbots Gold	El Paso, Texas, USA
@@ -188,7 +188,7 @@
 6187	Narrabri High School- Kaputar Klockworks	Narrabri, New South Wales, Australia
 6188	Sting Robotics	Fort Saskatchewan, Alberta, Canada
 6189	Cyber Raiders	Amelia Court House, Virginia, USA
-6190	Will-er Run	Canton, Michigan, USA
+6190	Cybernetic Crusaders	Canton, Michigan, USA
 6191	RoboKryptonite	Taipei, Taipei, Chinese Taipei
 6192	IEA Robotim	Istanbul, Istanbul, Turkey
 6193	The Legend of Robotics	Bay City, Michigan, USA
@@ -197,7 +197,7 @@
 6196	Spontaneous Disassembly	College Station, Texas, USA
 6197	Semia United	Beijing, Beijing, China
 6198	Bayou Bots	Pensacola, Florida, USA
-6199	E-Hawks	Torreón, Coahuila, Mexico
+6199	Peñoles E-Hawks	Torreón, Coahuila, Mexico
 6200	PrepaTec - XRAMS	Juárez, Chihuahua, Mexico
 6201	The Highlanders	Somerville, Massachusetts, USA
 6202	The Centurions	Windsor, Ontario, Canada
@@ -213,7 +213,7 @@
 6212	Kaniva College	Kaniva, Victoria, Australia
 6213	Team Quantum	Bowie, Maryland, USA
 6214	PHEnix	Burgaw, North Carolina, USA
-6215	Armored Eagles	Rocky Mount, North Carolina, USA
+6215	Armored Eagles	Apex, North Carolina, USA
 6216	movers and shakers	chester, Pennsylvania, USA
 6217	Bomb-Botz	Cannon Falls, Minnesota, USA
 6218	Tecmilenio - TAURUS - 6218	Hermosillo, Sonora, Mexico
@@ -236,7 +236,7 @@
 6235	Robo-Nerds	Midlothian, Texas, USA
 6236	Robots at The Center of the Universe	Ashland, Virginia, USA
 6237	Martin Motion	Neponset, Illinois, USA
-6238	POPCORN PENGUINS	San Jose, California, USA
+6238	POPCORN PENGUINS	Los Gatos, California, USA
 6239	The Irrational Engineers	Bowie, Maryland, USA
 6240	Eagles of the Knight	Warrenton, North Carolina, USA
 6241	CowTech	San Jose, California, USA
@@ -247,8 +247,8 @@
 6246	Union Knight Robotics	La Porte City, Iowa, USA
 6248	Millbrook High School	Raleigh, North Carolina, USA
 6300	Northwood School Robotics	Lake Placid, New York, USA
-6301	Nerointellect-sim Engineering &amp; Robot Design Soiree N.E.R.D.S.	Taunton, Massachusetts, USA
-6302	Greene Devils	Greeneville, Tennessee, USA
+6301	Nerointellect-sim Engineering & Robot Design Soiree N.E.R.D.S.	Taunton, Massachusetts, USA
+6302	Red Armadillos	Greeneville, Tennessee, USA
 6303	Citadel	Istanbul, Istanbul, Turkey
 6304	EAGLE	zhenjiang, Jiangsu, China
 6305	Stable Circuits	Fresno, California, USA
@@ -270,7 +270,7 @@
 6324	The Blue Devils	Salem, New Hampshire, USA
 6325	Reset Robotics	Alpharetta, Georgia, USA
 6326	? Baltimore Bolts ?	Baltimore, Maryland, USA
-6327	Tin Men	Media, Pennsylvania, USA
+6327	The Fighting Gophers	Prospect Park, Pennsylvania, USA
 6328	Mechanical Advantage	Littleton, Massachusetts, USA
 6329	The Bucks' Wrath	Bucksport, Maine, USA
 6330	6330 - Arc Angels	Mississauga, Ontario, Canada
@@ -284,12 +284,12 @@
 6338	DRIVING STEEL	Macomb, Michigan, USA
 6339	Pelican Falls First Nations High School	Sioux Lookout, Ontario, Canada
 6340	The Marist Manatees	Atlanta, Georgia, USA
-6341	Etowah Electric Eagles	Woodstock, Georgia, USA
+6341	Firestorm Robotics	Acworth, Georgia, USA
 6342	BT Robotics	Ancaster, Ontario, Canada
 6343	Steel Ridge Robotics	Ridgefield, Washington, USA
 6344	Yale Jiggawattz	Yale, Michigan, USA
 6345	Nimrod Nation	Watersmeet, Michigan, USA
-6346	Norwalk Cybears Robotics Team	Norwalk, Connecticut, USA
+6346	Cybears Robotics Team	Norwalk, Connecticut, USA
 6347	St. James Lions	Guelph, Ontario, Canada
 6348	PrepaTec - HORUS	COLIMA, Colima, Mexico
 6349	Albany High Indians	Albany, Georgia, USA
@@ -310,7 +310,7 @@
 6364	Ten Ton Robotics	West Vancouver, British Columbia, Canada
 6365	Imperial star destroyer	Shanghai, Shanghai, China
 6366	RAM Rodz Robotics	Simpsonville, South Carolina, USA
-6367	The ElectroLights	Boston, Massachusetts, USA
+6367	The ElectroLights	Dorchester Center, Massachusetts, USA
 6368	Unknown	Shanghai, Shanghai, China
 6369	Mercenary Robotics	McKinney, Texas, USA
 6370	Texas Titans	Helotes, Texas, USA
@@ -323,10 +323,10 @@
 6377	Howdy Bots	Austin, Texas, USA
 6378	LYNX	Mississauga, Ontario, Canada
 6379	Terabyte of Ram	Pleasant Hill, Iowa, USA
-6380	Orion Robotics	Istanbul, Istanbul, Turkey
+6380	ORION ROBOTICS	Istanbul, Istanbul, Turkey
 6381	Red Raider Robotics	Sheboygan, Wisconsin, USA
 6382	RoboHornz	Vista, California, USA
-6383	PLUG&amp;PLAY	Shenzhen, Guangdong, China
+6383	PLUG&PLAY	Shenzhen, Guangdong, China
 6384	Hisar Ravens	Gokturk ISTANBUL, Istanbul, Turkey
 6385	TrueMoe	Jinhua, Zhejiang, China
 6386	Guangzhou research robot club	GUANGZHOU, Guangdong, China
@@ -338,14 +338,14 @@
 6392	Dimension Creator	Chengdu, Sichuan, China
 6393	Pioneer	Zhengzhou, Henan, China
 6394	MITO	Suzhou, Jiangsu, China
-6395	Xindu No.2 High School	Chengdu, Sichuan, China
+6395	Xindu No.2 High School	Chengdu , Sichuan, China
 6396	Steel Tempest	Pensacola, Florida, USA
 6397	Romero Robotics	York, Ontario, Canada
 6398	Kilo-bots	Santa Paula, California, USA
-6399	Jinan foreign language school	JINAN, Shandong, China
+6399	Tinspiratio	JINAN, Shandong, China
 6400	The Manhattan Project	Manhattan, Montana, USA
 6401	8-bit RAMs	New City, New York, USA
-6402	GOKTURKLER - HOT	ISTANBUL, Istanbul, Turkey
+6402	GOKTURKLER | GTR #6402	ISTANBUL, Istanbul, Turkey
 6403	D.P. Todd Secondary	Prince George, British Columbia, Canada
 6404	Brazilian Storm	São José dos Campos, São Paulo, Brazil
 6405	EntreBots	Palmdale, California, USA
@@ -366,7 +366,7 @@
 6420	Fire Island Robotics	Muscatine, Iowa, USA
 6421	WarriorBots	Muskego, Wisconsin, USA
 6422	GearHeadz	Rocky Point, New York, USA
-6423	Ward Melville High School	East Setauket, New York, USA
+6423	Ward Melville Iron Patriots	East Setauket, New York, USA
 6424	Stealth Panther Robotics	Knob Noster, Missouri, USA
 6425	The Conclave	Coldwater, Michigan, USA
 6426	Robo Gladiators	Durham, North Carolina, USA
@@ -387,13 +387,13 @@
 6441	Turbo Turtle	Nanjing, Jiangsu, China
 6442	Modern Americans	Pendleton, Oregon, USA
 6443	AEMBOT	Hillsboro, Oregon, USA
-6444	PrepaTec - Sigma Robotics by Grupo Botrregos	Chihuahua, Chihuahua, Mexico
+6444	PrepaTec Chihuahua- Sigma Robotics	Chihuahua, Chihuahua, Mexico
 6445	CTEC Robotics	Salem, Oregon, USA
 6446	Redhawks	Blythewood, South Carolina, USA
 6447	Bad 2 the Bone - Bingara Central School	Bingara, New South Wales, Australia
 6448	LBJ Early College High School	Austin, Texas, USA
 6449	DigiBots	Warnbro, Western Australia, Australia
-6450	The Reaper	Jinhua, Zhejiang, China
+6450	The Reaper	Jinhua , Zhejiang, China
 6451	Wired Warriors	Whiteland, Indiana, USA
 6452	GPrep Thumpin Pup	Spokane, Washington, USA
 6453	Bog Bots!	Kelliher, Minnesota, USA
@@ -422,7 +422,7 @@
 6476	Supernova Star Squad	Coonabarabran, New South Wales, Australia
 6477	Conqueror of Istanbul	Buyukcekmece, Istanbul, Turkey
 6478	CASHS Bot Team	Seville Grove, Western Australia, Australia
-6479	AzTech	Tempe, Arizona, USA
+6479	AZTECH Robotics	Tempe, Arizona, USA
 6480	SAGE Robotics	Minneapolis, Minnesota, USA
 6481	Deus Ex Machina	Parkhill, Ontario, Canada
 6482	Wildcat Robotics	Joseph City, Arizona, USA
@@ -439,9 +439,9 @@
 6493	Red Steel	University Center, Michigan, USA
 6494	Wings of Liberty	Shanghai, Shanghai, China
 6495	Future Star	Beijing, Beijing, China
-6496	Semia United	Beijing, Beijing, China
+6496	AREA 27	Durham, North Carolina, USA
 6497	Future Forward	Beijing, Beijing, China
-6498	Castle High School	Newburgh, Indiana, USA
+6498	Castle Robotics Club	Newburgh, Indiana, USA
 6499	Innovos Robotics	Orange, California, USA
 6500	GearCats	Raleigh, North Carolina, USA
 6502	DARC SIDE	Durham, North Carolina, USA
@@ -455,7 +455,7 @@
 6510	Pymble Pride	Pymble, New South Wales, Australia
 6511	Oberoi	Mumbai, Maharashtra, India
 6512	Coastal CATastrophe	Bolivia, North Carolina, USA
-6513	Wyvern Robotics	Woodbridge, Ontario, Canada
+6513	The Wyverns	Woodbridge, Ontario, Canada
 6514	Sutton Robotics League	Sutton West, Ontario, Canada
 6515	Unimatics	Calexico, California, USA
 6516	Robonados	Lebanon, Ohio, USA
@@ -474,7 +474,7 @@
 6529	Beantown Blitz	Roxbury Crossing, Massachusetts, USA
 6530	Ra	Phoenix, Arizona, USA
 6531	Redhawks	Cedar Springs, Michigan, USA
-6532	Ben Carson Blue Jays	Detroit, Michigan, USA
+6532	TechnoPaths	Detroit, Michigan, USA
 6533	BeaverTech	Beaverton, Michigan, USA
 6534	Saints Scholars	Grand Rapids, Michigan, USA
 6535	Edison Sustainabots	Huntington Beach, California, USA
@@ -490,7 +490,7 @@
 6545	Tawas Braves	Tawas City, Michigan, USA
 6546	Naatsis'áán Robotics	Navajo Mountain, Utah, USA
 6547	Flaming Metal Robotics	Magnolia, Texas, USA
-6548	Perry High School RAMBOTS	Perry, Michigan, USA
+6548	Perry RAMBOTS	Perry, Michigan, USA
 6549	caseville eagles	Caseville, Michigan, USA
 6550	Wildcat Robotics	Evart, Michigan, USA
 6551	MOOTeam	Port Huron, Michigan, USA
@@ -533,7 +533,7 @@
 6588	Counter-Torque Robotics	Lawton, Michigan, USA
 6589	Cardinal.EXE	Bloomingdale, Michigan, USA
 6590	SaviTech	Brooklyn, New York, USA
-6591	Panther Powered	Stockbridge, Michigan, USA
+6591	Panther Powered Robotics	Stockbridge, Michigan, USA
 6592	Sexton Redbots	Lansing, Michigan, USA
 6593	HyperDrive Robotics	Richmond Hill, New York, USA
 6594	EV ROBOTICS	Lansing, Michigan, USA
@@ -561,7 +561,7 @@
 6617	NASA BHS Black Hawks Robotics Club	Bellingham, Massachusetts, USA
 6618	WARHBOTS	Flat Rock, Michigan, USA
 6619	GravitechX	Livermore, California, USA
-6620	The Northmengineers	Slatersville, Rhode Island, USA
+6620	The Northmengineers	North Smithfield, Rhode Island, USA
 6621	Artemis Robotics	Chatham, New York, USA
 6622	Stan Robotix	Outremont, Québec, Canada
 6623	Robot Maroc	Meknès, Meknès, Morocco
@@ -573,7 +573,7 @@
 6629	Concord Boyne Kestrels	Boyne City, Michigan, USA
 6630	F.U.N. (Fiercely Uknighted Nation)	La Porte City, Iowa, USA
 6631	Rocket Robotics	Reese, Michigan, USA
-6632	Supreme Robotics	Toronto, Ontario, Canada
+6632	Northview Robotics	Toronto, Ontario, Canada
 6633	Robo-Elephants	Detroit, Michigan, USA
 6634	Tecmilenio Phoenix Forces 6634	San Nicolás de los Garza, Nuevo León, Mexico
 6635	JaXon Falcon Works	Jackson, Michigan, USA
@@ -593,7 +593,7 @@
 6649	CHA Circuits	Saint Helen, Michigan, USA
 6650	Tribebots	Fresno, California, USA
 6651	Golden Bots	Sterling, Illinois, USA
-6652	TigreRobotics	Monterrey, Nuevo León, Mexico
+6652	Tigres	Monterrey, Nuevo León, Mexico
 6653	West Wyalong	West Wyalong, New South Wales, Australia
 6654	Central Robobcatics	Knoxville, Tennessee, USA
 6655	Texan Robotics	Arlington, Texas, USA
@@ -609,7 +609,7 @@
 6665	Nuns and Bolts	Monterey, California, USA
 6666	Tecmilenio- Regiobots -6666	Guadalupe, Nuevo León, Mexico
 6667	STEM Clippers	Chester, Pennsylvania, USA
-6668	Scorpion ( The Scorpions)	Hesperia, California, USA
+6668	Scorpion	Hesperia, California, USA
 6669	ATL Eagles Robotics	Delray Beach, Florida, USA
 6670	Red Cat Robots	Milwaukee, Wisconsin, USA
 6671	Adamas Robotics	Fort Worth, Texas, USA
@@ -630,7 +630,7 @@
 6686	Bionic Broncos	West Palm Beach, Florida, USA
 6687	Owltronics	Garland, Texas, USA
 6688	West Valley Middle College Robotics Team	San Jose, California, USA
-6689	Robit	Mexico City, Distrito Federal, Mexico
+6689	Robit	Mexico City , Distrito Federal, Mexico
 6690	MV roboPride	Concord, New Hampshire, USA
 6691	Torque	Wolfeboro, New Hampshire, USA
 6692	Robofalcons	San Bernardino, California, USA
@@ -654,14 +654,14 @@
 6711	Millennial Falcons	Atwater, California, USA
 6712	Mountaineers	Chatsworth, Georgia, USA
 6714	A. R. Johnson's Panthers	Augusta, Georgia, USA
-6715	HZB Robotics	Hephzibah, Georgia, USA
+6715	Hephzibah High Robotics	Hephzibah, Georgia, USA
 6716	Circuit Br8kers	Augusta, Georgia, USA
 6717	SPARTANS	Castle Dale, Utah, USA
 6718	Rocket Dogs	Oakland, California, USA
 6719	P.O.W.E.R.	Vancouver, British Columbia, Canada
 6720	Walker-Hackensack-Akeley	Walker, Minnesota, USA
 6721	Tindley Trailblazers	Indianapolis, Indiana, USA
-6722	L.E.D.s Robotics	New Port Richey, Florida, USA
+6722	LED Robotics	New Port Richey, Florida, USA
 6723	Mechanical Mounties	Williamstown, Massachusetts, USA
 6724	Raiders Robotics	Red Deer, Alberta, Canada
 6725	Westminster WildBOTS	London, Ontario, Canada
@@ -679,9 +679,9 @@
 6737	H.R.T	HAIFA, Haifa, Israel
 6738	Excalibur	Modi'in, HaMerkaz, Israel
 6739	Tel Shevaa	tel sheva, HaDarom, Israel
-6740	G3 - Glue Gun &amp; Glitter	Pardes Hana, Haifa, Israel
+6740	G3 - Glue Gun & Glitter	Pardes Hana, Haifa, Israel
 6741	Space monkeys	rishon le tzion, Tel-Aviv, Israel
-6742	Blue Jays	Westland, Michigan, USA
+6742	Augmented Jays	Westland, Michigan, USA
 6743	Tiger Engineering	Fort Myers, Florida, USA
 6744	Mehville Pi	Saint Louis, Missouri, USA
 6745	DAPCEP	Detroit, Michigan, USA
@@ -703,7 +703,7 @@
 6763	FUSION	Manchester, New Hampshire, USA
 6764	Flash Drives	Fillmore, California, USA
 6765	Columbus City Schools Walnut Ridge Scotts	Columbus, Ohio, USA
-6766	Pharma Atom Storm	Shenzhen, Guangdong, China
+6766	ATOM x SKOLL	Shenzhen, Guangdong, China
 6768	Denison Robo-Jackets	Denison, Texas, USA
 6769	Future Star	Beijing, Beijing, China
 6770	Semia United	Beijing, Beijing, China
@@ -729,18 +729,18 @@
 6818	Navigator	Suzhou, Jiangsu, China
 6819	Viking Robotics	Växjö, Kronobergs län, Sweden
 6820	Tecmilenio - Scorpion Bots - 6820	DURANGO, Durango, Mexico
-6821	Rogue Techs	Mira Loma, California, USA
+6821	Rogue Techs	San Bernardino, California, USA
 6822	THE SHISHKABOTS	San Jose, California, USA
 6823	Wildcats	Milwaukee, Wisconsin, USA
 6824	LVA Robot Pigeons	Las Vegas, Nevada, USA
-6825	The Stronghorns	North Las Vegas, Nevada, USA
+6825	THE STRONGHORNS	North Las Vegas, Nevada, USA
 6826	Experiment 6826	Las Vegas, Nevada, USA
 6827	hexagon	Beijing, Beijing, China
 6828	Hazel Green	Meridianville, Alabama, USA
 6829	Ignite Robotics	Suwanee, Georgia, USA
 6830	Hogbotics	Pharr, Texas, USA
 6831	A-05 Annex	Hood River, Oregon, USA
-6832	STEAMex	San Pedro Garza García, Nuevo León, Mexico
+6832	STEAMex	Santa Catarina, Nuevo León, Mexico
 6833	Python Robotics	Phoenix, Arizona, USA
 6834	Bionic Warriors	Etna, Ohio, USA
 6835	Steel Satyr	Puebla, Puebla, Mexico
@@ -761,8 +761,8 @@
 6850	Cell-Ticks	Ocala, Florida, USA
 6851	Empereurs	Laval, Québec, Canada
 6852	Bedford Express	Temperance, Michigan, USA
-6853	JaegersTec	Tuxtla Gutierrez, Chiapas, Mexico
-6854	AB Lucas VIKING Robotics	London, Ontario, Canada
+6853	JaegersTec	Tuxtla Gutierrez , Chiapas, Mexico
+6854	Viking Robotics	London, Ontario, Canada
 6855	Badger Robotics	Arkadelphia, Arkansas, USA
 6856	RoboRaptors	London, Ontario, Canada
 6857	Mechanized Garbage	San Fernando, California, USA
@@ -772,8 +772,8 @@
 6861	The Tyros Team	Livonia, Michigan, USA
 6862	The Reavers	Detroit, Michigan, USA
 6863	Cyber Squirrels	Laurel, Maryland, USA
-6864	Gravenhurst High School	Gravenhurst, Ontario, Canada
-6865	Manitoulin Metal	M'Chigeeng, Ontario, Canada
+6864	Gryphtech Robotics	Gravenhurst, Ontario, Canada
+6865	Manitoulin Metal 6865	M'Chigeeng, Ontario, Canada
 6866	The Space Invaders	Markham, Ontario, Canada
 6867	Panthera Tech	North York, Ontario, Canada
 6868	Cadet Robotics	Hilton, New York, USA
@@ -782,7 +782,7 @@
 6871	QC DogSquad	Queen Creek, Arizona, USA
 6872	PantheraFerro	Brossard, Québec, Canada
 6873	The Generals	New York, New York, USA
-6874	Imperium	Dösemealti, Antalya, Turkey
+6874	IMPERIUM - Antalya Bahçesehir Koleji Parkorman	Dösemealti, Antalya, Turkey
 6875	Amazon Warriors - Build A Dream Robotics	Windsor, Ontario, Canada
 6876	UHS Wolfpack	Unionville, Ontario, Canada
 6877	Mechanical Mustangs	Grand Rapids, Michigan, USA
@@ -814,13 +814,13 @@
 6903	MEXICAN HOPE	METEPEC, Mexico, Mexico
 6904	TeraWatts	Los Angeles, California, USA
 6905	TEAR-A-BYTE	Alpharetta, Georgia, USA
-6906	Cristo Rey Reybots	Chicago, Illinois, USA
+6906	Reybots	Chicago, Illinois, USA
 6907	The G.O.A.T	Shanghai, Shanghai, China
 6908	Infuzed	Cary, North Carolina, USA
 6909	SAKURA Tempesta	Chiba, Chiba, Japan
-6910	Steel Talons	Hoschton, Georgia, USA
+6910	Mill Creek Steel Talons	Hoschton, Georgia, USA
 6911	SO BOTZ	Orangeburg, New York, USA
-6912	Intergalactic Transformers	Saint Paul, Minnesota, USA
+6912	InterGalactic Transformers	Saint Paul, Minnesota, USA
 6913	North Crawford Robotics Club	Soldiers Grove, Wisconsin, USA
 6914	Retro5ive	Melvindale, Michigan, USA
 6915	Bulldogs	Hesperia, California, USA
@@ -837,13 +837,13 @@
 6926	RobotiCats	Clovis, California, USA
 6927	The Franklinton Firebirds	Columbus, Ohio, USA
 6928	Mad Llama Robotics	Greeneville, Tennessee, USA
-6929	Cuivre &amp; Or	Rouyn-Noranda, Québec, Canada
+6929	Cuivre & Or	Rouyn-Noranda, Québec, Canada
 6930	Hill Robotics	Staten Island, New York, USA
 6931	The Red Company	Tucson, Arizona, USA
 6932	S.M.A.R.T. (Smoky Mountain Academic Robotics Team)	Sylva, North Carolina, USA
-6933	Archytas, sponsored by NASA	Sharon, Vermont, USA
+6933	Archytas	Bethel, Vermont, USA
 6934	Scorps	Camarillo, California, USA
-6935	Ingram Tom Moore RoboWarriors	Ingram, Texas, USA
+6935	The Brainy Bunch- Ingram Tom Moore HS	Ingram, Texas, USA
 6936	Vault 6936	Dayton, Ohio, USA
 6937	McCallie Robotics	Chattanooga, Tennessee, USA
 6938	STEM3 West Robotics	Los Angeles, California, USA
@@ -854,7 +854,7 @@
 6943	Blue Bears	Newark, New Jersey, USA
 6944	Wolverines	Cumming, Georgia, USA
 6945	Children of the Corn	Blairstown, New Jersey, USA
-6946	F &amp; E	Kunming, Yunnan, China
+6946	F & E	Kunming, Yunnan, China
 6947	Savage Tumaz	Taipei, Taipei, Chinese Taipei
 6948	EAGLES	Kartal, Istanbul, Turkey
 6949	The Smurfs	Nanjing, Jiangsu, China
@@ -865,7 +865,7 @@
 6954	Titans of Industry	Dearborn, Michigan, USA
 6955	Los Chilis	Santiago, Región Metropolitana de Santiago, Chile
 6956	SHAM-ROCK-BOTICS ?	Westfield, Indiana, USA
-6957	The A.C.E.S.	Henderson, Nevada, USA
+6957	A.C.E.S. (Army of Christian Engineering Students)	Henderson, Nevada, USA
 6958	CougarBots	Warren, Michigan, USA
 6959	Organized Chaos	Centralia, Washington, USA
 6960	The Rusty Huskies	Riverside, California, USA
@@ -873,7 +873,7 @@
 6962	RobotX	Mountain View, California, USA
 6963	Blood Sweat and Gears	Remus, Michigan, USA
 6964	BearBots	Columbus, Ohio, USA
-6965	Tecmilenio RoboMov 6965	Cancun, Quintana Roo, Mexico
+6965	Tecmilenio XibalBots 6965	Cancun, Quintana Roo, Mexico
 6966	Sons Of God	Toluca, Mexico, Mexico
 6967	A.T.Vortex	Shanghai, Shanghai, China
 6968	Team PI	Eindhoven, Noord-Brabant, Netherlands
@@ -894,14 +894,14 @@
 6983	Tecmilenio - STEMHAWKS - 6983	Monterrey, Nuevo León, Mexico
 6984	Magical Monkey	Nanjing, Jiangsu, China
 6985	ENKA TECH.	Dilovasi, Kocaeli, Turkey
-6986	White Shark	Nanjing, Jiangsu, China
+6986	PPT bots	Nanjing, Jiangsu, China
 6987	Falcon Automation	Fenelon Falls, Ontario, Canada
 6988	ACI 35	Izmir, Izmir, Turkey
 6989	KAISER	ISTANBUL, Istanbul, Turkey
 6990	Ambition	Shanghai, Shanghai, China
 6991	Crosbotics	Shanghai, Shanghai, China
 6992	FrancoBots	Sarnia, Ontario, Canada
-6993	Dragons	Lubbock, Texas, USA
+6993	Dragons	Lubbock , Texas, USA
 6994	Citadel	Istanbul, Istanbul, Turkey
 6995	NOMAD	Escondido, California, USA
 6996	Koalafied	Adelaide, South Australia, Australia

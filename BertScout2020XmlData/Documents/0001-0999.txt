@@ -64,7 +64,7 @@
 75	RoboRaiders	Hillsborough, New Jersey, USA
 77	--	--
 78	AIR STRIKE	Newport, Rhode Island, USA
-79	Team Krunch	Tarpon Springs, Florida, USA
+79	Team Krunch	Tarpon Springs , Florida, USA
 80	Robocolt	Phoenix, AZ, USA
 81	MetalHeads	Freeport, Illinois, USA
 84	Chuck 84	Towanda, PA, USA
@@ -96,7 +96,7 @@
 114	Eaglestrike	Los Altos, California, USA
 115	MVRT	Cupertino, California, USA
 116	Epsilon Delta	Herndon, Virginia, USA
-117	The Steel Dragons	Pittsburgh, Pennsylvania, USA
+117	Steel Dragons Robotics	Pittsburgh, Pennsylvania, USA
 118	Robonauts	League City, Texas, USA
 120	Cleveland's Team	Cleveland, Ohio, USA
 121	Rhode Warriors	Middletown, Rhode Island, USA
@@ -108,7 +108,7 @@
 127	--	--
 128	The Botcats	Grandview Heights, Ohio, USA
 130	--	--
-131	C.H.A.O.S. (Central High And Our Sponsors)	Manchester, New Hampshire, USA
+131	C.H.A.O.S.	Manchester, New Hampshire, USA
 132	--	Wilton Manors, FL, USA
 133	B.E.R.T.	Standish, Maine, USA
 134	Team Discovery	Pembroke, NH, USA
@@ -139,13 +139,13 @@
 169	--	--
 171	Cheese Curd Herd	Platteville, Wisconsin, USA
 172	Northern Force	Falmouth/Gorham, Maine, USA
-173	RAGE Robotics	Tolland, Connecticut, USA
+173	RAGE Robotics ??	Tolland, Connecticut, USA
 174	Arctic Warriors	Liverpool, New York, USA
 175	Buzz Robotics	Enfield, Connecticut, USA
 176	Aces High	Windsor Locks, Connecticut, USA
 177	Bobcat Robotics	South Windsor, Connecticut, USA
 178	The 2nd Law Enforcers	Farmington, Connecticut, USA
-179	Children of the Swamp	West Palm Beach, Florida, USA
+179	Children of the Swamp	Riviera Beach, Florida, USA
 180	S.P.A.M.	Stuart, Florida, USA
 181	Birds Of Prey	Hartford, Connecticut, USA
 182	ThunderQuest	Dearborn, MI, USA
@@ -261,6 +261,8 @@
 321	RoboLancers	Philadelphia, Pennsylvania, USA
 322	Team F.I.R.E.	Flint, Michigan, USA
 323	Lights Out	Mountain Home, Arkansas, USA
+324	Chips	Friendswood, Texas, USA
+325	Respawn Robotics	Hamilton, Ohio, USA
 326	Teamsuperpowermaticultramegasuperlativeawesometasticdelcioushowlingunieagles	Romulus, MI, USA
 329	Mohawks	Medford, New York, USA
 330	The Beach Bots	Hermosa Beach, California, USA
@@ -342,6 +344,7 @@
 423	Simple Machines	Cheltenham, Pennsylvania, USA
 424	GRR (Greater Rochester Robotics)	Churchville, NY, USA
 425	Spartans	Melbourne, FL, USA
+426	Zombie Apocalypse Counter Task Force	Bronx, New York, USA
 433	Firebirds	Flourtown, Pennsylvania, USA
 434	Kraken	Missouri City, TX, USA
 435	Robodogs	Raleigh, North Carolina, USA
@@ -393,7 +396,7 @@
 498	The Cobra Commanders	Glendale, Arizona, USA
 499	Toltechs	San Antonio, Texas, USA
 500	Team 500/Team USA	New London, CT, USA
-501	The PowerKnights	Manchester, New Hampshire, USA
+501	The PowerKnights	Weare, New Hampshire, USA
 502	--	Rockville Centre, NY, USA
 503	Frog Force	Novi, Michigan, USA
 504	--	Little Silver, NJ, USA
@@ -462,7 +465,7 @@
 583	--	Seattle, WA, USA
 585	Cyber Penguins	Tehachapi, California, USA
 586	--	Alhambra, CA, USA
-587	Hedgehogs	Hillsborough, North Carolina, USA
+587	The Hedgehogs	Hillsborough, North Carolina, USA
 588	Jagtronx	Jacksonville, FL, USA
 589	Falkon Robotics	La Crescenta, California, USA
 590	Chahta Warriors	Choctaw, Mississippi, USA
@@ -497,7 +500,7 @@
 620	Warbots	Vienna, Virginia, USA
 621	--	Falls Church, VA, USA
 622	--	Manassas, VA, USA
-623	Oakton Cougar Robotics	Vienna, Virginia, USA
+623	Oakton Cougar Robotics 623	Vienna, Virginia, USA
 624	CRyptonite	Katy, Texas, USA
 625	--	Palmer, AK, USA
 627	--	Falls Church, VA, USA
@@ -620,7 +623,7 @@
 814	Megaforce	Napa, CA, USA
 815	Advanced Power	Allen Park, Michigan, USA
 816	Anomaly	Mount Holly, New Jersey, USA
-818	Steel Armadillos	Warren, Michigan, USA
+818	The Steel Armadillos	Warren, Michigan, USA
 820	Team DeltaTech	Toronto, ON, Canada
 822	--	Detroit, MI, USA
 824	SWAT Robotics	Seattle, WA, USA
@@ -647,7 +650,7 @@
 849	Wolfpack	Unionville, ON, Canada
 850	--	La Canada, CA, USA
 851	Froggers	Torrance, CA, USA
-852	The Athenian Robotics Collective	Danville, California, USA
+852	Athenian Robotics	Danville, California, USA
 853	--	Phoenix, AZ, USA
 854	Iron Bears	Etobicoke, Ontario, Canada
 857	Superior Roboworks	Houghton, Michigan, USA
@@ -675,7 +678,7 @@
 881	--	Bismarck, ND, USA
 883	Ironmen	Cleveland, OH, USA
 884	Mechanical Mules	Malverne, New York, USA
-885	GREEN TEAM	Randolph Center, Vermont, USA
+885	Ro-bovines	Randolph Center, Vermont, USA
 886	Wildcats	North York, Ontario, Canada
 887	--	Goffstown, NH, USA
 888	Robotiators	Glenelg, Maryland, USA
@@ -700,7 +703,7 @@
 910	The Foley Freeze	Madison Heights, Michigan, USA
 912	Iron Lyons	Toronto, ON, Canada
 913	Bendale Robotics	Toronto, ON, Canada
-914	--	Toronto, ON, Canada
+914	Flashpoint	Toronto, Ontario, Canada
 915	--	Toronto, ON, Canada
 917	--	Toronto, ON, Canada
 918	--	Toronto, ON, Canada

@@ -14,7 +14,7 @@
 2015	Static shock	Holland, MI, USA
 2016	Mighty Monkey Wrenches	Ewing, New Jersey, USA
 2017	Trojans	Etobicoke, ON, Canada
-2020	Robo Runners	El Cajon, CA, USA
+2019	Robo Runners	El Cajon, CA, USA
 2021	F.A.R.	Fredericksburg, VA, USA
 2022	Titan Robotics	Aurora, Illinois, USA
 2023	PiraTech	Melbourne, FL, USA
@@ -55,7 +55,7 @@
 2059	The Hitchhikers	Apex, North Carolina, USA
 2060	ECHS Robotics	Tulsa, OK, USA
 2061	Pioneers	N Las Vegas, NV, USA
-2062	C.O.R.E 2062	Waukesha, Wisconsin, USA
+2062	CORE 2062	Waukesha, Wisconsin, USA
 2063	Green Machine	Turlock, CA, USA
 2064	The Panther Project	Southbury / Middlebury, Connecticut, USA
 2065	The Lions	Holly Springs, MS, USA
@@ -72,7 +72,7 @@
 2076	Scots	Toronto, ON, Canada
 2077	Laser Robotics	Wales, Wisconsin, USA
 2078	Robotic Wolves	Covington, Louisiana, USA
-2079	4H ALARM Robotics	Bellingham, Massachusetts, USA
+2079	4H ALARM Robotics	Franklin, Massachusetts, USA
 2080	Torbotics	Hammond, Louisiana, USA
 2081	Icarus	Peoria, Illinois, USA
 2083	Team BLITZ	Conifer, Colorado, USA
@@ -120,7 +120,7 @@
 2134	Aztecs	Tempe, AZ, USA
 2135	Presentation Invasion	San Jose, California, USA
 2136	Impossible Mission Force	Chicago, Illinois, USA
-2137	T.O.R.C.	Oxford, Michigan, USA
+2137	The Oxford RoboCats	Oxford, Michigan, USA
 2139	Road Runners	Las Vegas, NV, USA
 2140	Team Synergy	Pemberton, NJ, USA
 2141	Spartonics	Concord, California, USA
@@ -151,7 +151,7 @@
 2169	KING TeC	Savage, Minnesota, USA
 2170	Titanium Tomahawks	Glastonbury, Connecticut, USA
 2171	RoboDogs	Crown Point, Indiana, USA
-2172	Street Legal	Lakewood, Ohio, USA
+2172	Steel Unit-E	Lakewood, Ohio, USA
 2173	Robo Rocks	Bay St. Louis, MS, USA
 2174	Iron Eagles	Watts, CA, USA
 2175	The Fighting Calculators	Saint Paul, Minnesota, USA
@@ -232,7 +232,7 @@
 2260	Transformers	Edwards, CO, USA
 2261	Casa Robotics	Longmont, Colorado, USA
 2262	Robo-Panthers	Holliston, Massachusetts, USA
-2264	Wayzata Robotics	Plymouth, Minnesota, USA
+2264	Trojan Robotics	Plymouth, Minnesota, USA
 2265	Fe Maidens	Bronx, New York, USA
 2266	Colegio Sacramentinas	Salvador, BA, Brazil
 2269	Dragons	Lindale, GA, USA
@@ -358,7 +358,7 @@
 2447	Vikes	Hanover, MA, USA
 2448	SLT	London, ENG, Kingdom
 2449	Out of Orbit Robotics	Chandler, Arizona, USA
-2450	Raiderbots	St. Paul, Minnesota, USA
+2450	Wind Chill	St. Paul, Minnesota, USA
 2451	PWNAGE	Saint Charles, Illinois, USA
 2453	Soaring Eagles	Honolulu, HI, USA
 2454	Rambotx	Honolulu, HI, USA
@@ -412,7 +412,7 @@
 2505	The Electric Sheep	Toronto, ON, Canada
 2506	Saber Robotics	Franklin, Wisconsin, USA
 2508	Armada	Stillwater, Minnesota, USA
-2509	Tigerbots	Hutchinson, Minnesota, USA
+2509	Tigerbots	Hutchinson , Minnesota, USA
 2510	anishinaabe	Cloquet, MN, USA
 2511	Cougars	Lakeville, Minnesota, USA
 2512	Duluth East Daredevils	Duluth, Minnesota, USA
@@ -434,7 +434,7 @@
 2531	RoboHawks	Chaska, Minnesota, USA
 2532	FLASH Power	Forest Lake, Minnesota, USA
 2533	Juarez Aztec Eagles	Chicago, IL, USA
-2534	Lumberjack Robotics	Baltimore, Maryland, USA
+2534	Lumberjack Robotics	Baltimore , Maryland, USA
 2535	TIGEARS	Minneapolis, MN, USA
 2536	Carver Bears	Baltimore, MD, USA
 2537	Space RAIDers	Columbia, Maryland, USA
@@ -503,7 +503,7 @@
 2604	Metal and Soul	Capac, Michigan, USA
 2605	Seamonsters	Bellingham, Washington, USA
 2606	Irish Robotics	Rosemount, Minnesota, USA
-2607	The Fighting RoboVikings	Warminster, Pennsylvania, USA
+2607	The Fighting RoboVikings	Warminster , Pennsylvania, USA
 2608	MiGHT	Farmington Hills, MI, USA
 2609	BeaverworX	Guelph, Ontario, Canada
 2611	Jacktown Vectors	Jackson, Michigan, USA
@@ -530,7 +530,7 @@
 2635	Lake Monsters	Lake Oswego, Oregon, USA
 2637	Phantom Catz	Rolling Hills Estates, California, USA
 2638	Rebel Robotics	Great Neck, New York, USA
-2640	HOTBOTZ	Reidsville, North Carolina, USA
+2640	HOTBOTZ	Wentworth, North Carolina, USA
 2641	PCCR	Pittsburgh, Pennsylvania, USA
 2642	Pitt Pirates	Greenville, North Carolina, USA
 2643	Dark Matter	San Jose, California, USA
@@ -542,7 +542,7 @@
 2650	ELAHLYA	Om- Elfahem, HA, Israel
 2652	Highlander Engineering and Technology	El Paso, TX, USA
 2653	Master Robotics	Aracaju, SE, Brazil
-2654	Rams	Roseau, Minnesota, USA
+2654	Polar Rams	Roseau, Minnesota, USA
 2655	The Flying Platypi	Greensboro, North Carolina, USA
 2656	Quasics	Monroeville, Pennsylvania, USA
 2657	Team Thundercats	Deming, New Mexico, USA
@@ -550,7 +550,7 @@
 2659	RoboWarriors	Mission Hills, California, USA
 2660	Pengbots	Tulalip, Washington, USA
 2661	Trailblazers	Chatsworth, CA, USA
-2662	Robo Krew	Tolleson, Arizona, USA
+2662	RoboKrew	Tolleson, Arizona, USA
 2663	The Foothillers	El Cajon, CA, USA
 2664	Lobos	Houston, TX, USA
 2665	CougarBots	Dayton, Ohio, USA
@@ -567,12 +567,13 @@
 2679	Tiger Team	Jerusalem, Yerushalayim, Israel
 2680	Vex Minas	Minas do Leão, RS, Brazil
 2681	Lady G-House Pirates	Brooklyn, NY, USA
-2682	Boneyard Robotics	Winterville, North Carolina, USA
+2682	Boneyard Robotics 2682	Farmville, North Carolina, USA
 2685	Team Haven	Byfield, MA, USA
 2686	The Memphis MechWarriors	Memphis, Tennessee, USA
+2687	Team Apprentice	Austin, Texas, USA
 2702	Rebels	Kitchener, Ontario, Canada
 2703	fire fox	ben shemen y.v., M, Israel
-2704	Roaring Robotics	Batavia, Illinois, USA
+2704	Roaring Robotics	Downers Grove, Illinois, USA
 2705	WE ROBOT	Eden Prairie, Minnesota, USA
 2706	Merge Robotics	Ottawa, Ontario, Canada
 2707	Real Steel Vikes	Saint Louis, Missouri, USA
@@ -583,6 +584,7 @@
 2712	Power Surge 4-H Robotics	Woodbury, Connecticut, USA
 2713	iRaiders	Melrose, Massachusetts, USA
 2714	?? BBQ ??	Dallas, Texas, USA
+2716	Ranger Force	Spencerport, New York, USA
 2719	Ketronix Robotix	Monroe, MI, USA
 2721	Fang	Lasara, Texas, USA
 2723	Team Rocket	Oklahoma City, Oklahoma, USA
@@ -619,7 +621,7 @@
 2791	Shaker Robotics	Latham, New York, USA
 2793	Sabercats	Moore, OK, USA
 2795	Ohm's Claw	Broken Arrow, Oklahoma, USA
-2797	Knight &amp; Nerdy	Clermont, Florida, USA
+2797	Knight & Nerdy	Clermont, Florida, USA
 2799	The Teslas	Kansas City, MO, USA
 2803	Firebirds	Chicago, IL, USA
 2805	Ghost in the Machine	Waxahachie, Texas, USA
@@ -645,7 +647,7 @@
 2837	Freebirds	Gilbert, AZ, USA
 2838	Eaglebots	Chesterfield, Missouri, USA
 2839	Daedalus	Escondido, California, USA
-2840	Blue Tide	Paradise Valley, Arizona, USA
+2840	PCDS Blue Tide	Paradise Valley, Arizona, USA
 2841	NECHS	El Paso, TX, USA
 2842	Mustangs	Bokchito, OK, USA
 2843	Metal Heads	El Paso, TX, USA
@@ -722,7 +724,7 @@
 2924	2924 Murphy's Lawyers	Chimacum, WA, USA
 2925	North Central Tech Center	Wenatchee, WA, USA
 2926	Robo Sparks	Wapato, Washington, USA
-2927	Pi Rho Techs	Graham, Washington, USA
+2927	GKHS Pi Rho Techs	Graham, Washington, USA
 2928	Viking Robotics	Seattle, Washington, USA
 2929	JAGBOTS	Puyallup, Washington, USA
 2930	Sonic Squirrels	Snohomish, Washington, USA
@@ -783,7 +785,7 @@
 2991	Boxer Bots	Houston, TX, USA
 2992	The S.S. Prometheus	Mandeville, Louisiana, USA
 2993	InTech MegaBots	Logan, Utah, USA
-2994	ASTECHZ	Kanata, Ontario, Canada
+2994	ASTECHZ	Ottawa, Ontario, Canada
 2995	"Mountain Force Robotics"	Dallas, TX, USA
 2996	Cougars Gone Wired	Colorado Springs, Colorado, USA
 2998	VikingBots	Richmond, Virginia, USA

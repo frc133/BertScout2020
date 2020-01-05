@@ -47,7 +47,7 @@
 5046	Jacked Up Jackets	Memphis, Michigan, USA
 5047	DV CONQUISTABOTS	El Paso, Texas, USA
 5048	Spartronics	Imlay City, Michigan, USA
-5049	Techtonics	Las Vegas, Nevada, USA
+5049	Minerbots	Las Vegas, Nevada, USA
 5050	Cow Town Robotics	Carleton, Michigan, USA
 5051	Fast Eddie Community Robotics	Port Perry, Ontario, Canada
 5052	The RoboLobos	Cedar Park, Texas, USA
@@ -88,12 +88,12 @@
 5087	Marsden High School	West Ryde, New South Wales, Australia
 5088	Engadine Robots	Engadine, MI, USA
 5089	Robo-Nerds	Los Angeles, California, USA
-5090	Torque-Nados	Trenton, Michigan, USA
+5090	TorqueNados	Trenton, Michigan, USA
 5091	Squirrels	Toronto, ON, Canada
 5092	Titanium Tigers	North York, Ontario, Canada
 5093	Tech-Sets	Culiacan, Sinaloa, Mexico
 5094	Blizzard	Brampton, Ontario, Canada
-5095	RoBeauce	Saint-Georges, Qu√©bec, Canada
+5095	RoBeauce	Saint-Georges, QuÈbec, Canada
 5096	The Teutonic Force	Germantown, Wisconsin, USA
 5097	Phantom	Folsom, CA, USA
 5098	STING - R	Kansas City, Missouri, USA
@@ -177,9 +177,9 @@
 5176	RoboBills	Saint Louis, Missouri, USA
 5177	Hatchets	200 North Barrie Rd, MI, USA
 5178	The Nerdy Birds	Farmington, Arkansas, USA
-5179	Les S√©nateurs	Drummondville, Qu√©bec, Canada
+5179	Les SÈnateurs	Drummondville, QuÈbec, Canada
 5180	Metal Heads	Blythewood, South Carolina, USA
-5181	Explorer	Glenside, Pennsylvania, USA
+5181	Explorer	Wyndmoor, Pennsylvania, USA
 5182	Chieftainators	Dowagiac, Michigan, USA
 5183	Devil Bots	Gaylord, Michigan, USA
 5184	TITANICS	Edmonton, Alberta, Canada
@@ -213,7 +213,7 @@
 5212	TAMSformers Robotics	Denton, Texas, USA
 5213	St. Ignace SHIELD	Saint Ignace, Michigan, USA
 5214	The Mighty CavBots	Saint Clair Shores, Michigan, USA
-5215	Steagles	Frankenmuth, Michigan, USA
+5215	Steagles 5215	Frankenmuth, Michigan, USA
 5216	E-Ville Empire	Essexville, Michigan, USA
 5217	Robocats	Dearborn, Michigan, USA
 5218	System Overload	Yuma, Arizona, USA
@@ -240,7 +240,7 @@
 5239	Harper Woods Pioneers	Harper Woods, Michigan, USA
 5240	Udder Chaos	Potsdam, New York, USA
 5241	Tribe Tech FRC	San Antonio, Texas, USA
-5242	‚öôÔ∏è RoboCats ‚öôÔ∏è	Dallas, Texas, USA
+5242	?? RoboCats ??	Dallas, Texas, USA
 5243	Aegis Robotics	Clifton, Virginia, USA
 5244	LNHS	Kalamazoo, MI, USA
 5245	Warriors	Grass Lake, MI, USA
@@ -308,7 +308,7 @@
 5308	Wuhan Yangtze	Wuhan, Hubei, China
 5309	Robbery	chuangchun, 22, China
 5310	Eagles Apex	East Orange, New Jersey, USA
-5311	Colombian Space Stars	Bogota, Distrito Capital de Bogot√°, Colombia
+5311	Colombian Space Stars	Bogota, Distrito Capital de Bogot·, Colombia
 5312	Lobotics	Torreon, Coahuila, Mexico
 5313	CIBERBOTS	Toluca, MEX, Mexico
 5314	Ice Bots	Pellston, Michigan, USA
@@ -330,7 +330,7 @@
 5331	Lightning Bots	Sydney, New South Wales, Australia
 5332	Toaster Tech	Decatur, Georgia, USA
 5333	Can't C#	Perth, Western Australia, Australia
-5334	BUHOS77	LE√ìN, GUA, Mexico
+5334	BUHOS77	LE”N, GUA, Mexico
 5335	Falcons	Pembroke Pines, FL, USA
 5336	Longhorn	Suwanee, Georgia, USA
 5337	Real Steel	Conway, SC, USA
@@ -387,12 +387,12 @@
 5436	Cyber Cats	Rochester, Michigan, USA
 5437	Rocky Balboabots	Booneville, Arkansas, USA
 5438	Technological Terrors	Jersey City, New Jersey, USA
-5439	Huskies	Qu√©bec, Qu√©bec, Canada
-5440	Les Chevaliers	Quebec, Qu√©bec, Canada
-5441	Arsenal	Mascouche, Qu√©bec, Canada
+5439	Huskies	QuÈbec, QuÈbec, Canada
+5440	Les Chevaliers	Quebec, QuÈbec, Canada
+5441	Arsenal	Mascouche, QuÈbec, Canada
 5442	Mechanical Monarchy	Washington, Illinois, USA
-5443	Les PATenteux	Montr√©al, Qu√©bec, Canada
-5444	VObotik	Trois-Rivi√®res, Qu√©bec, Canada
+5443	Les PATenteux	MontrÈal, QuÈbec, Canada
+5444	VObotik	Trois-RiviËres, QuÈbec, Canada
 5445	Rushing Peacock	Kunming, Yunnan, China
 5446	Pink Detectives	Apex, North Carolina, USA
 5447	Team Robotica	Sebewaing, Michigan, USA
@@ -460,7 +460,7 @@
 5509	Like a Boss	Midland, Michigan, USA
 5510	The Da Vinci Coders	Los Angeles, California, USA
 5511	Cortechs Robotics	Cary, North Carolina, USA
-5512	Pizza Mec√°nica	Recoleta, Regi√≥n Metropolitana de Santiago, Chile
+5512	Pizza Mec·nica	Recoleta, RegiÛn Metropolitana de Santiago, Chile
 5513	Monroe Robotics	North Hills, CA, USA
 5514	MavBots	Carlsbad, California, USA
 5515	Blue Power Robotics	Shanghai, Shanghai, China
@@ -474,9 +474,9 @@
 5523	Redneck RoboWarriors	Grass Lake, Michigan, USA
 5524	MacroProcessors	Birch Run, Michigan, USA
 5525	Alcona Tool Cats	Lincoln, Michigan, USA
-5526	tCATs	Torreon, Coahuila, Mexico
+5526	PeÒoles - TCATs	Torreon, Coahuila, Mexico
 5527	Cyber Phoenix	Flint, Michigan, USA
-5528	Ultime	Trois-Rivieres, Qu√©bec, Canada
+5528	Ultime	Trois-Rivieres, QuÈbec, Canada
 5529	Visalia Vanquishers	Visalia, CA, USA
 5530	The Greenhills Lawnmowers	Ann Arbor, Michigan, USA
 5531	Orange Crush	Dearborn, Michigan, USA
@@ -494,14 +494,14 @@
 5543	M.I.N.T.T.Z - Mechanically Insane Nerdy Tech Teenz	Greensboro, North Carolina, USA
 5544	SWIFT Robotics	Vass, North Carolina, USA
 5545	PiedmontSTEM	concord, VA, USA
-5546	‚öíÔ∏è A.R.T. ‚öíÔ∏è	Petersburg, Virginia, USA
+5546	?? A.R.T. ??	Petersburg, Virginia, USA
 5547	The Talons	Hale, Michigan, USA
 5548	Psi Factor	Yukon, Oklahoma, USA
 5549	Gryphon Robotics	Falls Church, Virginia, USA
 5550	BRONChO BOTS	Bethany, Oklahoma, USA
 5551	Harding Revolution	Memphis, Tennessee, USA
 5552	SENSORED	Green Bay, Wisconsin, USA
-5553	Robo'Lyon	Neuville-sur-Sa√¥ne, Rh√¥ne, France
+5553	Robo'Lyon	Neuville-sur-SaÙne, RhÙne, France
 5554	The Poros Robotics	Netanya, HaMerkaz, Israel
 5555	Spartans	Warren, Michigan, USA
 5556	Carriagetown Robotics	Amesbury, Massachusetts, USA
@@ -518,7 +518,7 @@
 5567	Code Red Robotics	Milan, Michigan, USA
 5568	Solid Rock	Bentonville, Arkansas, USA
 5569	Tech Titans	Washington, District of Columbia, USA
-5570	Ookpik	Montr√©al, Qu√©bec, Canada
+5570	Ookpik	MontrÈal, QuÈbec, Canada
 5571	RATCHET	Knoxville, Tennessee, USA
 5572	The ROSBOT Rottweilers	San Antonio, Texas, USA
 5573	Ivanhoe	Ivanhoe, New South Wales, Australia
@@ -566,7 +566,7 @@
 5615	Miners RC	Fort McMurray, Alberta, Canada
 5616	Green Machine	Fort Walton Beach, Florida, USA
 5617	Northern Lights	Fort McMurray, AB, Canada
-5618	PLS	Plessisville, Qu√©bec, Canada
+5618	PLS	Plessisville, QuÈbec, Canada
 5619	RoboJags	Detroit, Michigan, USA
 5620	Community Team 1	Calgary, Alberta, Canada
 5621	Cyberian Huskies	Edmond, Oklahoma, USA
@@ -575,13 +575,13 @@
 5624	TIGER TECH Robotics	South Plainfield, New Jersey, USA
 5625	TrojanBots	Wailuku, Hawaii, USA
 5626	Nu-matic Ninjas	Norwood Young America, Minnesota, USA
-5627	œÄrtz (Pi-rates)	San Diego, California, USA
+5627	prtz (Pi-rates)	San Diego, California, USA
 5628	cyborg chakra	Jacksonville, Florida, USA
 5629	Community Team 2	Calgary, Alberta, Canada
 5630	The Nomads	Calgary, Alberta, Canada
 5631	SpartanDroids	Guelph, Ontario, Canada
 5632	The Asimovians	Appling, Georgia, USA
-5633	Hyde Mecha Wolves	Bath, Maine, USA
+5633	Hyde Cyber Wolves	Bath, Maine, USA
 5634	Jesterminators	Lakewood, California, USA
 5635	Demacia	nes ziona, HaMerkaz, Israel
 5636	Moona	Majd el Kurum, HaZafon, Israel
@@ -599,7 +599,7 @@
 5648	Melbourne RoboCats	Hawthorn, Victoria, Australia
 5649	The Pithons	London, CMD, Kingdom
 5650	Carbonite Crusaders	Macomb, Michigan, USA
-5651	Maynard Jackson Jungle C.A.Ts	Atlanta, Georgia, USA
+5651	Maynard Jackson RoboJags	Atlanta, Georgia, USA
 5652	Eagles	Ottawa, Ontario, Canada
 5653	Iron Mosquitos	Babbitt, Minnesota, USA
 5654	Phoenix	Arad, HaDarom, Israel
@@ -613,13 +613,13 @@
 5662	Cardinal Commanders	Dryden, Michigan, USA
 5663	Ground Control	Perth, Western Australia, Australia
 5664	Big Red Robotics	Muskegon, Michigan, USA
-5665	SPARC	Beyoƒülu, Istanbul, Turkey
+5665	SPARC	Beyoglu, Istanbul, Turkey
 5666	Purple Lightning	Trenton, New Jersey, USA
 5667	The Digital Eagles	New Albany, Ohio, USA
 5668	NHHS1	Bancroft, ON, Canada
 5669	Techmen	Rosemead, California, USA
 5670	Al-Hayah	Jerusalem, Yerushalayim, Israel
-5671	ROBIN, Rob√≥tica Inemita	Medell√≠n, ANT, Colombia
+5671	ROBIN, RobÛtica Inemita	MedellÌn, ANT, Colombia
 5672	First Nations-STEM	Wikwemikong, Ontario, Canada
 5673	CougBorgs	Detroit, MI, USA
 5674	The Gearhounds	Eaton Rapids, Michigan, USA
@@ -649,7 +649,7 @@
 5698	Raider Robotics	Decatur, MI, USA
 5699	Robo Sapiens	Toronto, Ontario, Canada
 5700	SOTA Cyberdragons	San Francisco, California, USA
-5701	RAIJINbotics	Machida, T√¥ky√¥, Japan
+5701	RAIJINbotics	Machida, TÙkyÙ, Japan
 5702	Robotowatomi	Wilson, Michigan, USA
 5703	Eagles Crew	Midland, Michigan, USA
 5704	Blended Learning Academies	Lansing, Michigan, USA
@@ -676,7 +676,7 @@
 5725	Cerberus	Lethbridge, Alberta, Canada
 5726	RHUMBOTZ	San Antonio, Texas, USA
 5727	REaCH Omegabytes	Spindale, North Carolina, USA
-5728	MC¬≤	Santa Rosa, California, USA
+5728	MC≤	Santa Rosa, California, USA
 5729	MAD Dragons	De Witt, Arkansas, USA
 5730	The Professionals	Monett, Missouri, USA
 5731	Tiny Giants	Yanco, New South Wales, Australia
@@ -721,7 +721,7 @@
 5770	ReMIT	Inglewood, California, USA
 5771	Marfa Robohorns	Marfa, Texas, USA
 5772	The Mighty Morphin Power Bots	Los Angeles , California, USA
-5773	YAFL Mechatronics	Beylikd√ºz√º, Istanbul, Turkey
+5773	YAFL Mechatronics	Beylikd¸z¸, Istanbul, Turkey
 5774	Maximum Overload	Flint, Michigan, USA
 5775	CRHS RoboCats	Malakoff, Texas, USA
 5776	Phoenix	Toronto, Ontario, Canada
@@ -795,20 +795,20 @@
 5856	Bullbots	Waterbury, Connecticut, USA
 5857	Walnut Valley Robotics	Walnut, California, USA
 5858	Golden Hurricane	Huntsville, Alabama, USA
-5859	i	Canton de Hatley, Qu√©bec, Canada
+5859	i	Canton de Hatley, QuÈbec, Canada
 5860	Full Metal Muskrats	Algonac, Michigan, USA
 5861	ManGeKyo	guangzhou, 44, China
 5862	Atomic Disco Robotic Engineers	concord, VA, USA
 5863	Hypercubed	Brusly, Louisiana, USA
 5864	Robo-Pelicans	Port Allen, Louisiana, USA
-5865	Droide	Terrebonne, Qu√©bec, Canada
+5865	Droide	Terrebonne, QuÈbec, Canada
 5866	Fe [Iron] Tigers	Wolfforth, Texas, USA
 5867	fighters science	Los Mochis, Sinaloa, Mexico
 5868	UTM Veracruz	Veracruz, VER, Mexico
 5869	QHHS Robotics	Quartz Hill, California, USA
 5870	League of Logic	London, Ontario, Canada
 5871	Chickadees	Boise, Idaho, USA
-5872	WiredCats	Fort Lauderdale, Florida, USA
+5872	WiredCats	Davie, Florida, USA
 5873	Farmersville Robotics	Farmersville, Texas, USA
 5874	Tecmilenio Border Bots	Nuevo Laredo, Tamaulipas, Mexico
 5875	ICE Cubed	Fernley, Nevada, USA
@@ -846,7 +846,7 @@
 5907	CC Shambots	Novi, Michigan, USA
 5908	Spartans	Stafford, Texas, USA
 5909	Cardinal Gibbons Cyber Chiefs	Fort Lauderdale, Florida, USA
-5910	Supertronix	Matane, Qu√©bec, Canada
+5910	Supertronix	Matane, QuÈbec, Canada
 5911	PARAGON	Scarborough, Ontario, Canada
 5912	Heritage Robotics	Jordan, Ontario, Canada
 5913	Patriotics	Pequot Lakes, Minnesota, USA
@@ -868,7 +868,7 @@
 5929	The Marauders	Lake Park, Minnesota, USA
 5930	Lunar Kitties	Newcastle, Oklahoma, USA
 5931	Bots of Prey	Caldwell, Idaho, USA
-5932	Tecmilenio Quetzales 5932	M√©rida, Yucat√°n, Mexico
+5932	Tecmilenio Quetzales 5932	MÈrida, Yucat·n, Mexico
 5933	JudgeMent Call	Salt Lake City, Utah, USA
 5934	Crowbotics	DeKalb, Illinois, USA
 5935	Tech Tigers	Grinnell, Iowa, USA
@@ -888,7 +888,7 @@
 5949	TechGarage	Delray Beach, Florida, USA
 5950	Trojans	Dry Fork, Virginia, USA
 5951	Makers Assemble	Tel Aviv, Tel-Aviv, Israel
-5952	RoBuck	Verdun, Qu√©bec, Canada
+5952	RoBuck	Verdun, QuÈbec, Canada
 5953	NOLABOTS	New Orleans, Louisiana, USA
 5954	Portable Chargers	Victoria, Virginia, USA
 5955	Trailblazers	Bellport, New York, USA
@@ -922,7 +922,7 @@
 5983	Blast Furnace Bots	Lithgow, New South Wales, Australia
 5984	Salina Robocats	Salina, Oklahoma, USA
 5985	Project Bucephalus	Wollongong, New South Wales, Australia
-5986	‚îå Iron Fangs ‚îê	San Antonio, Texas, USA
+5986	+ Iron Fangs +	San Antonio, Texas, USA
 5987	Galaxia in memory of David Zohar	Haifa, Haifa, Israel
 5988	Narooma Robo Rebels	Narooma, New South Wales, Australia
 5989	Panthers	Ewen, Michigan, USA
@@ -930,7 +930,7 @@
 5991	Chargers	Westbrook, Minnesota, USA
 5992	Pirates	West Orange, New Jersey, USA
 5993	Istech Robotic Society	Florya, Istanbul, Turkey
-5994	Captain Retros	Montreal, Qu√©bec, Canada
+5994	Captain Retros	Montreal, QuÈbec, Canada
 5995	Servo Serpents	Rancho Mirage, CA, USA
 5996	R.U.R.	Prague, Praha 8, Czech Republic
 5997	Knightling Boltz	St. Gabriel, Louisiana, USA

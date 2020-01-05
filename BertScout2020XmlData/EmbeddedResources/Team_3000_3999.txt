@@ -32,13 +32,13 @@
 3034	Galileo	Kefar Blum, HaZafon, Israel
 3035	Droid Rage	Corpus Christi, Texas, USA
 3036	DROBA Warriors	Deer River, Minnesota, USA
-3037	SHREK-2020	Longview, Texas, USA
+3037	LOBOTS	Longview, Texas, USA
 3038	ICE	North Branch, Minnesota, USA
 3039	Wildcat Robotics	Destrehan, Louisiana, USA
 3040	red knights	toronto, ON, Canada
 3041	Spartans Robotics Club	Chula Vista, California, USA
 3042	Cobalt Catalysts	Apple Valley, Minnesota, USA
-3043	Dragons	El Paso, Texas, USA
+3043	Da Vinci Dragons	El Paso, Texas, USA
 3044	Team 0xBE4	Ballston Spa, New York, USA
 3045	The Gear Gremlins	San Mateo, California, USA
 3046	GWHS RoboFanatics	Charmco, WV, USA
@@ -102,7 +102,7 @@
 3114	To be determined	Southfield, MI, USA
 3115	Robo-Panthers	Detroit, MI, USA
 3116	Phoenix	Memphis, TN, USA
-3117	Harfangs	Sherbrooke, QuÃ©bec, Canada
+3117	Harfangs	Sherbrooke, Québec, Canada
 3119	Rockets	Detroit, MI, USA
 3120	RoboKnights	Sherman Oaks, California, USA
 3121	Alloy Fingerprints	Portage County, OH, USA
@@ -111,7 +111,7 @@
 3124	Cyberian Huskies	Edmond, OK, USA
 3125	Pirates of the Pythagorean	Hartford, CT, USA
 3126	FlashPoint	Hollis, NH, USA
-3128	The Aluminum Narwhals	San Diego, California, USA
+3128	Aluminum Narwhals	San Diego, California, USA
 3129	Green MacHHHHine	Mountain View, CA, USA
 3130	The ERRORs	Woodbury, Minnesota, USA
 3131	Gladiators	Gladstone, Oregon, USA
@@ -248,7 +248,7 @@
 3271	Dragonbots	Ventura, CA, USA
 3272	Ravage!	Carrollton, KY, USA
 3273	Cybercats	Springfield, MA, USA
-3274	Rocktown Robotics	Harrisonburg, Virginia, USA
+3274	Rocktown Robotics	Manchester, New Hampshire, USA
 3275	The Regulators	Cass Lake, Minnesota, USA
 3276	TOOLCATS	New London, Minnesota, USA
 3277	ProDigi	Thief River Falls, Minnesota, USA
@@ -319,13 +319,13 @@
 3351	Ratchet	Beer-Sheva, D, Israel
 3352	Flaming Monkeys 4-H Robotics Club	Belvidere, Illinois, USA
 3353	Freer Robotics Team	Freer, TX, USA
-3354	PrepaTec-TecDroid	Queretaro, QuerÃ©taro, Mexico
+3354	PrepaTec-TecDroid	Queretaro, Querétaro, Mexico
 3355	Purple Vipers	Arlington, Texas, USA
 3356	MC2STEM Maniacs	Cleveland, Ohio, USA
 3357	COMETS	Grand Rapids, Michigan, USA
 3358	Y.T.P.T - J.E.T.S	Petach Tikva, M, Israel
 3359	Royal Robotics	Portsmouth, Virginia, USA
-3360	Hyperion	Sherbrooke, QuÃ©bec, Canada
+3360	Hyperion	Sherbrooke, Québec, Canada
 3361	Governators	Fishersville, Virginia, USA
 3362	Eagle Robotics	Milwaukee, WI, USA
 3363	Eagle	Houston, TX, USA
@@ -342,15 +342,15 @@
 3376	RoboScorps	Satellite Beach, FL, USA
 3377	Raiders	Lumberton, TX, USA
 3378	OD-BS	Beit-Shean, Z, Israel
-3379	MÃ©cani-Wolf	Montreal, QuÃ©bec, Canada
+3379	Mécani-Wolf	Montreal, Québec, Canada
 3380	Alchesay Falcon Team	Whiteriver, AZ, USA
 3381	Droid Rage	Valders, Wisconsin, USA
-3382	Les BÃ©liers	MontrÃ©al, QuÃ©bec, Canada
+3382	Les Béliers	Montréal, Québec, Canada
 3383	makif omer	omer, D, Israel
 3384	Sunset BisonBots	Dallas, TX, USA
 3385	RoboticST	gesher haziv, Z, Israel
-3386	Tornades	Montreal, QuÃ©bec, Canada
-3387	Les Aigles d'Or	MontrÃ©al, QuÃ©bec, Canada
+3386	Tornades	Montreal, Québec, Canada
+3387	Les Aigles d'Or	Montréal, Québec, Canada
 3388	Flash	Gan Yavne, HaMerkaz, Israel
 3389	TEC Tigers	Salisbury, Maryland, USA
 3390	ANATOLIAN EAGLEBOTS	Ankara, Ankara, Turkey
@@ -413,9 +413,9 @@
 3475	The Crop?	Charleston, SC, USA
 3476	Code Orange	Irvine, California, USA
 3477	Chaos Vortex	Chula Vista, CA, USA
-3478	PrepaTec - LamBot	San Luis PotosÃ­, San Luis PotosÃ­, Mexico
+3478	PrepaTec - LamBot	San Luis Potosí, San Luis Potosí, Mexico
 3479	crimson tide	everett, MA, USA
-3480	PrepaTec - ABTOMAT	LeÃ³n, Guanajuato, Mexico
+3480	PrepaTec - ABTOMAT	León, Guanajuato, Mexico
 3481	Bronc Botz	San Antonio, Texas, USA
 3482	Arrowbotics	Campbell, California, USA
 3483	Cold Smoke	Bozeman, MT, USA
@@ -457,17 +457,17 @@
 3519	Hannibal Robo Pirates	Hannibal, MO, USA
 3520	RoboColts	Coral Springs, FL, USA
 3521	Noble Nuts	Indio, CA, USA
-3522	CBoTÂ´S4	Toluca, Mexico, Mexico
+3522	CBoT´S4	Toluca, Mexico, Mexico
 3524	The Blizzard	Minneapolis, MN, USA
 3525	The Nuts & Bolts of Fury	Waterbury, Connecticut, USA
 3526	PrepaTec - Blue Ignition	Saltillo, Coahuila, Mexico
 3527	PrepaTec - Balam Esmeralda	Atizapan de Zaragoza, Mexico, Mexico
 3528	Up Next	Kansas City, Missouri, USA
 3529	Kobayashi Maru	San Antonio, TX, USA
-3530	Patriotix	Montreal, QuÃ©bec, Canada
+3530	Patriotix	Montreal, Québec, Canada
 3531	2XR	Montreal, QC, Canada
-3532	Piranhas	Saint-Hubert, QuÃ©bec, Canada
-3533	Mekano	Montreal, QuÃ©bec, Canada
+3532	Piranhas	Saint-Hubert, Québec, Canada
+3533	Mekano	Montreal, Québec, Canada
 3534	House of Cards	Davison, Michigan, USA
 3535	Galaktech Invaders	Lapeer County, Michigan, USA
 3536	Electro Eagles	Hartland, Michigan, USA
@@ -478,13 +478,13 @@
 3541	Brebotics	North York, Ontario, Canada
 3542	S.P.E.E.D	Temperance, Michigan, USA
 3543	C4 Robotics	Arnprior, Ontario, Canada
-3544	Spartiates	Montreal-Nord, QuÃ©bec, Canada
+3544	Spartiates	Montreal-Nord, Québec, Canada
 3545	Bots in Blue	Jbsa Lackland, Texas, USA
 3546	Buc'n'Gears	Grand Haven, Michigan, USA
 3547	VIRUS	Monroe, Michigan, USA
 3548	RoboRavens2	Royal Oak, Michigan, USA
 3549	Straughn Robotics 3549	Andalusia, AL, USA
-3550	Robotronix	Lasalle, QuÃ©bec, Canada
+3550	Robotronix	Lasalle, Québec, Canada
 3552	The T-Birds	San Antonio, TX, USA
 3553	South Philly Rambots	Philadelphia, PA, USA
 3554	LC Botkickers	Elk Grove, CA, USA
@@ -720,7 +720,7 @@
 3791	ATEMS	Abilene, TX, USA
 3792	The Army Ants	Columbia, Missouri, USA
 3793	CyberTitans	Frederick, Maryland, USA
-3794	WinT	METEPEC, Mexico, Mexico
+3794	Tecmilenio WinT	METEPEC, Mexico, Mexico
 3795	Knight Owls	Garland, TX, USA
 3796	Technical Assassins	Windsor, North Carolina, USA
 3797	Robo Dragons	Bowling Green, KY, USA
@@ -728,7 +728,7 @@
 3799	Electric Fire	Elmira, New York, USA
 3800	Mustangs	Kailua, Hawaii, USA
 3801	RAMbots 4-H Club	Wenatchee, WA, USA
-3802	âœ¨RoboPOPâœ¨	Carrollton, Texas, USA
+3802	?RoboPOP?	Carrollton, Texas, USA
 3803	Lightning Robotics	Miami, FL, USA
 3804	BroncoBots	League City, TX, USA
 3805	North Spokane Yetis	Spokane, WA, USA
@@ -772,7 +772,7 @@
 3844	Kentucky Wildbots	Corbin, Kentucky, USA
 3845	Yellow Jackets	Winston-Salem, North Carolina, USA
 3846	The First Robotic Cardinals	Staples, Minnesota, USA
-3847	Spectrum -â–³â—…	Houston, Texas, USA
+3847	Spectrum -??	Houston, Texas, USA
 3848	Bots in Shining Armour	Kenyon, Minnesota, USA
 3849	Absolute Zero	San Diego, CA, USA
 3851	The Short Circuits	Canoga Park, California, USA
@@ -827,7 +827,7 @@
 3938	Radix Robotics	Miami, FL, USA
 3939	Botetourt 4-H Robotics	Buchanan, Virginia, USA
 3940	CyberTooth	Kokomo, Indiana, USA
-3941	FRC 3941 Absolute Zero Electricity - Northern Chesapeake STEM Inc.	Aberdeen Proving Ground, Maryland, USA
+3941	FRC 3941 Absolute Zero Electricity - Northern Chesapeake STEM, Inc.	Aberdeen Proving Ground, Maryland, USA
 3942	Northark Pioneers	Harrison, AR, USA
 3943	Bulltronics	Monterrey, NLE, Mexico
 3944	All Knights	Tempe, Arizona, USA
@@ -855,33 +855,33 @@
 3966	L&N STEMpunks	Knoxville, Tennessee, USA
 3967	Trojans Robotics	Chula Vista, California, USA
 3968	Higher Voltage	Renton, WA, USA
-3969	Phoenix	Montreal, QuÃ©bec, Canada
+3969	Phoenix	Montreal, Québec, Canada
 3970	Duncan Dynamics	Fresno, California, USA
 3971	Kai Orbus	Weaverville, North Carolina, USA
 3972	Raider Robos	Kingsport, TN, USA
 3973	Pirate Robotics	Platte City, MO, USA
 3974	E=mCD	Wyncote, Pennsylvania, USA
-3975	Les Dragons	Montreal, QuÃ©bec, Canada
+3975	Les Dragons	Montreal, Québec, Canada
 3976	Electric Hornets	Hopkins, South Carolina, USA
 3977	Predateurs	Montreal, QC, Canada
 3978	Bouledogues	Montreal, QC, Canada
-3979	Solaris	Montreal, QuÃ©bec, Canada
+3979	Solaris	Montreal, Québec, Canada
 3980	Scorpions	Montreal, QC, Canada
-3981	Loups	Montreal, QuÃ©bec, Canada
+3981	Loups	Montreal, Québec, Canada
 3983	Bobcats	Verdun, QC, Canada
 3984	Topper Robotics	Johnson City, Tennessee, USA
-3985	Sonic Howl	Montreal, QuÃ©bec, Canada
-3986	Express-O	Saint-Laurent, QuÃ©bec, Canada
-3987	Les Audacieux	MontrÃ©al, QC, Canada
-3988	Scarabot	Montreal, QuÃ©bec, Canada
+3985	Sonic Howl	Montreal, Québec, Canada
+3986	Express-O	Saint-Laurent, Québec, Canada
+3987	Les Audacieux	Montréal, QC, Canada
+3988	Scarabot	Montreal, Québec, Canada
 3989	Classics	Montreal, QC, Canada
-3990	Tech for Kids	MontrÃ©al, QuÃ©bec, Canada
+3990	Tech for Kids	Montréal, Québec, Canada
 3991	KnightVision	Baton Rouge, Louisiana, USA
 3992	Eagles Robotics Xperience	Delray Beach, Florida, USA
 3993	Humanoids	Newhall, California, USA
 3994	Goldenlions FIRST Robotics	Pine Bluff, AR, USA
 3995	Automata	Redmond, OR, USA
-3996	RIKITIK	Rimouski, QuÃ©bec, Canada
+3996	RIKITIK	Rimouski, Québec, Canada
 3997	Screaming Chickens	San Antonio, Texas, USA
 3998	Redneck Robotics	Statesboro, Georgia, USA
 3999	Shadetree Robotics	Killeen, Texas, USA
