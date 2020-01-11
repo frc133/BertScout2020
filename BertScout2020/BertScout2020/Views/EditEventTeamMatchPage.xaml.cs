@@ -33,12 +33,12 @@ namespace BertScout2020.Views
         {
             AutoStartPos = viewModel.item.AutoStartPos;
             AutoLeaveInitLine = viewModel.item.AutoLeaveInitLine;
-            AutoLowCell = viewModel.item.AutoLowCell;
-            AutoHighCell = viewModel.item.AutoHighCell;
+            AutoBottomCell = viewModel.item.AutoBottomCell;
+            AutoOuterCell = viewModel.item.AutoOuterCell;
 
             AutoInnerCell = viewModel.item.AutoInnerCell;
-            TeleLowCell = viewModel.item.TeleLowCell;
-            TeleHighCell = viewModel.item.TeleHighCell;
+            TeleBottomCell = viewModel.item.TeleBottomCell;
+            TeleOuterCell = viewModel.item.TeleOuterCell;
             TeleInnerCell = viewModel.item.TeleInnerCell;
             RotationControl = viewModel.item.RotationControl;
             PositionControl = viewModel.item.PositionControl;
@@ -168,75 +168,75 @@ namespace BertScout2020.Views
 
         #endregion
 
-        #region AutoLowCell
+        #region AutoBottomCell
 
-        public int AutoLowCell
+        public int AutoBottomCell
         {
             get
             {
-                return viewModel.item.AutoLowCell;
+                return viewModel.item.AutoBottomCell;
             }
             set
             {
-                Label_AutoLowCell_Value.Text = value.ToString();
-                if (viewModel.item.AutoLowCell != value)
+                Label_AutoBottomCell_Value.Text = value.ToString();
+                if (viewModel.item.AutoBottomCell != value)
                 {
-                    viewModel.item.AutoLowCell = value;
+                    viewModel.item.AutoBottomCell = value;
                     App.database.SaveEventTeamMatchAsync(viewModel.item);
                 }
             }
         }
 
-        private void Button_AutoLowCell_Minus_Clicked(object sender, System.EventArgs e)
+        private void Button_AutoBottomCell_Minus_Clicked(object sender, System.EventArgs e)
         {
-            if (AutoLowCell > 0)
+            if (AutoBottomCell > 0)
             {
-                AutoLowCell--;
+                AutoBottomCell--;
             }
         }
 
-        private void Button_AutoLowCell_Plus_Clicked(object sender, System.EventArgs e)
+        private void Button_AutoBottomCell_Plus_Clicked(object sender, System.EventArgs e)
         {
-            if (AutoLowCell < 99)
+            if (AutoBottomCell < 99)
             {
-                AutoLowCell++;
+                AutoBottomCell++;
             }
         }
 
         #endregion
 
-        #region AutoHighCell
+        #region AutoOuterCell
 
-        public int AutoHighCell
+        public int AutoOuterCell
         {
             get
             {
-                return viewModel.item.AutoHighCell;
+                return viewModel.item.AutoOuterCell;
             }
             set
             {
-                Label_AutoHighCell_Value.Text = value.ToString();
-                if (viewModel.item.AutoHighCell != value)
+                Label_AutoOuterCell_Value.Text = value.ToString();
+                if (viewModel.item.AutoOuterCell != value)
                 {
-                    viewModel.item.AutoHighCell = value;
+                    viewModel.item.AutoOuterCell = value;
                     App.database.SaveEventTeamMatchAsync(viewModel.item);
                 }
             }
         }
 
-        private void Button_AutoHighCell_Minus_Clicked(object sender, System.EventArgs e)
+        private void Button_AutoOuterCell_Minus_Clicked(object sender, System.EventArgs e)
         {
-            if (AutoHighCell > 0)
+            if (AutoOuterCell > 0)
             {
-                AutoHighCell--;
+                AutoOuterCell--;
             }
         }
 
-        private void Button_AutoHighCell_Plus_Clicked(object sender, System.EventArgs e)
+        private void Button_AutoOuterCell_Plus_Clicked(object sender, System.EventArgs e)
         {
-            if (AutoHighCell < 99)
+            if (AutoOuterCell < 99)
             {
-                AutoHighCell++;
+                AutoOuterCell++;
             }
         }
 
@@ -279,75 +279,75 @@ namespace BertScout2020.Views
 
         #endregion
 
-        #region TeleLowCell
+        #region TeleBottomCell
 
-        public int TeleLowCell
+        public int TeleBottomCell
         {
             get
             {
-                return viewModel.item.TeleLowCell;
+                return viewModel.item.TeleBottomCell;
             }
             set
             {
-                Label_TeleLowCell_Value.Text = value.ToString();
-                if (viewModel.item.TeleLowCell != value)
+                Label_TeleBottomCell_Value.Text = value.ToString();
+                if (viewModel.item.TeleBottomCell != value)
                 {
-                    viewModel.item.TeleLowCell = value;
+                    viewModel.item.TeleBottomCell = value;
                     App.database.SaveEventTeamMatchAsync(viewModel.item);
                 }
             }
         }
 
-        private void Button_TeleLowCell_Minus_Clicked(object sender, System.EventArgs e)
+        private void Button_TeleBottomCell_Minus_Clicked(object sender, System.EventArgs e)
         {
-            if (TeleLowCell > 0)
+            if (TeleBottomCell > 0)
             {
-                TeleLowCell--;
+                TeleBottomCell--;
             }
         }
 
-        private void Button_TeleLowCell_Plus_Clicked(object sender, System.EventArgs e)
+        private void Button_TeleBottomCell_Plus_Clicked(object sender, System.EventArgs e)
         {
-            if (TeleLowCell < 99)
+            if (TeleBottomCell < 99)
             {
-                TeleLowCell++;
+                TeleBottomCell++;
             }
         }
 
         #endregion
 
-        #region TeleHighCell
+        #region TeleOuterCell
 
-        public int TeleHighCell
+        public int TeleOuterCell
         {
             get
             {
-                return viewModel.item.TeleHighCell;
+                return viewModel.item.TeleOuterCell;
             }
             set
             {
-                Label_TeleHighCell_Value.Text = value.ToString();
-                if (viewModel.item.TeleHighCell != value)
+                Label_TeleOuterCell_Value.Text = value.ToString();
+                if (viewModel.item.TeleOuterCell != value)
                 {
-                    viewModel.item.TeleHighCell = value;
+                    viewModel.item.TeleOuterCell = value;
                     App.database.SaveEventTeamMatchAsync(viewModel.item);
                 }
             }
         }
 
-        private void Button_TeleHighCell_Minus_Clicked(object sender, System.EventArgs e)
+        private void Button_TeleOuterCell_Minus_Clicked(object sender, System.EventArgs e)
         {
-            if (TeleHighCell > 0)
+            if (TeleOuterCell > 0)
             {
-                TeleHighCell--;
+                TeleOuterCell--;
             }
         }
 
-        private void Button_TeleHighCell_Plus_Clicked(object sender, System.EventArgs e)
+        private void Button_TeleOuterCell_Plus_Clicked(object sender, System.EventArgs e)
         {
-            if (TeleHighCell < 99)
+            if (TeleOuterCell < 99)
             {
-                TeleHighCell++;
+                TeleOuterCell++;
             }
         }
 
