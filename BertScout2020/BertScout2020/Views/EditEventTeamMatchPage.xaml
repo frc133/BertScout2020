@@ -300,20 +300,20 @@
                         WidthRequest="293"
                         />
                     <Button
-                        x:Name="Button_RotationControl_Minus"
+                        x:Name="Button_RotationControl_No"
                         Text="No"
                         FontSize="24"
                         WidthRequest="90"
                         BackgroundColor="LightGray"
-                        Clicked="Button_RotationControl_Minus_Clicked"
+                        Clicked="Button_RotationControl_No_Clicked"
                         />
                     <Button
-                        x:Name="Button_RotationControl_Plus"
+                        x:Name="Button_RotationControl_Yes"
                         Text="Yes"
                         FontSize="24"
                         WidthRequest="90"
                         BackgroundColor="LightGray"
-                        Clicked="Button_RotationControl_Plus_Clicked"
+                        Clicked="Button_RotationControl_Yes_Clicked"
                         />
                 </StackLayout>
                 <StackLayout Orientation="Horizontal">
@@ -324,20 +324,20 @@
                         WidthRequest="293"
                         />
                     <Button
-                        x:Name="Button_PositionControl_Minus"
+                        x:Name="Button_PositionControl_No"
                         Text="No"
                         FontSize="24"
                         WidthRequest="90"
                         BackgroundColor="LightGray"
-                        Clicked="Button_PositionControl_Minus_Clicked"
+                        Clicked="Button_PositionControl_No_Clicked"
                         />
                     <Button
-                        x:Name="Button_PositionControl_Plus"
+                        x:Name="Button_PositionControl_Yes"
                         Text="Yes"
                         FontSize="24"
                         WidthRequest="90"
                         BackgroundColor="LightGray"
-                        Clicked="Button_PositionControl_Plus_Clicked"
+                        Clicked="Button_PositionControl_Yes_Clicked"
                         />
                 </StackLayout>
 
@@ -480,7 +480,7 @@
                         WidthRequest="293"
                         />
                     <Button
-                        x:Name="Button_Broken_None"
+                        x:Name="Button_Broken_No"
                         Text="No"
                         FontSize="24"
                         WidthRequest="90"
@@ -488,7 +488,7 @@
                         Clicked="Button_Broken_None_Clicked"
                         />
                     <Button
-                        x:Name="Button_Broken_Some"
+                        x:Name="Button_Broken_Yes"
                         Text="Yes"
                         FontSize="24"
                         WidthRequest="90"
