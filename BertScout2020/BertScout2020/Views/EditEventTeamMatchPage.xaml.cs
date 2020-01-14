@@ -127,11 +127,6 @@ namespace BertScout2020.Views
                         Button_AutoLeaveInitLine_None.BackgroundColor = App.UnselectedButtonColor;
                         Button_AutoLeaveInitLine_1.BackgroundColor = App.SelectedButtonColor;
                         break;
-                    case 2:
-                        newValue = 2;
-                        Button_AutoLeaveInitLine_None.BackgroundColor = App.UnselectedButtonColor;
-                        Button_AutoLeaveInitLine_1.BackgroundColor = App.UnselectedButtonColor;
-                        break;
                     default:
                         newValue = 0;
                         Button_AutoLeaveInitLine_None.BackgroundColor = App.SelectedButtonColor;
@@ -395,6 +390,21 @@ namespace BertScout2020.Views
             }
             set
             {
+                int newValue = value;
+                switch (value)
+                {
+                    case 1:
+                        newValue = 1;
+                        Button_RotationControl_No.BackgroundColor = App.UnselectedButtonColor;
+                        Button_RotationControl_Yes.BackgroundColor = App.SelectedButtonColor;
+                        break;
+                    default:
+                        newValue = 1;
+                        Button_RotationControl_No.BackgroundColor = App.SelectedButtonColor;
+                        Button_RotationControl_Yes.BackgroundColor = App.UnselectedButtonColor;
+                        break;
+
+                }
                 if (viewModel.item.RotationControl != value)
                 {
                     viewModel.item.RotationControl = value;
@@ -434,6 +444,21 @@ namespace BertScout2020.Views
             }
             set
             {
+                int newValue = value;
+                switch (value)
+                {
+                    case 1:
+                        newValue = 1;
+                        Button_PositionControl_No.BackgroundColor = App.UnselectedButtonColor;
+                        Button_PositionControl_Yes.BackgroundColor = App.SelectedButtonColor;
+                        break;
+                    default:
+                        newValue = 1;
+                        Button_PositionControl_No.BackgroundColor = App.SelectedButtonColor;
+                        Button_PositionControl_Yes.BackgroundColor = App.UnselectedButtonColor;
+                        break;
+
+                }
                 if (viewModel.item.PositionControl != value)
                 {
                     viewModel.item.PositionControl = value;
