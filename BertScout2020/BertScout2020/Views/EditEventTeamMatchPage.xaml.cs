@@ -503,30 +503,42 @@ namespace BertScout2020.Views
                     case 1:
                         newValue = 1;
                         Button_ClimbStatus_None.BackgroundColor = App.UnselectedButtonColor;
-                        Button_ClimbStatus_1.BackgroundColor = App.SelectedButtonColor;
-                        Button_ClimbStatus_2.BackgroundColor = App.UnselectedButtonColor;
-                        Button_ClimbStatus_3.BackgroundColor = App.UnselectedButtonColor;
+                        Button_ClimbStatus_Park.BackgroundColor = App.SelectedButtonColor;
+                        Button_ClimbStatus_Left.BackgroundColor = App.UnselectedButtonColor;
+                        Button_ClimbStatus_Middle.BackgroundColor = App.UnselectedButtonColor;
+                        Button_ClimbStatus_Right.BackgroundColor = App.UnselectedButtonColor;
                         break;
                     case 2:
                         newValue = 2;
                         Button_ClimbStatus_None.BackgroundColor = App.UnselectedButtonColor;
-                        Button_ClimbStatus_1.BackgroundColor = App.UnselectedButtonColor;
-                        Button_ClimbStatus_2.BackgroundColor = App.SelectedButtonColor;
-                        Button_ClimbStatus_3.BackgroundColor = App.UnselectedButtonColor;
+                        Button_ClimbStatus_Park.BackgroundColor = App.UnselectedButtonColor;
+                        Button_ClimbStatus_Left.BackgroundColor = App.SelectedButtonColor;
+                        Button_ClimbStatus_Middle.BackgroundColor = App.UnselectedButtonColor;
+                        Button_ClimbStatus_Right.BackgroundColor = App.UnselectedButtonColor;
                         break;
                     case 3:
                         newValue = 3;
                         Button_ClimbStatus_None.BackgroundColor = App.UnselectedButtonColor;
-                        Button_ClimbStatus_1.BackgroundColor = App.UnselectedButtonColor;
-                        Button_ClimbStatus_2.BackgroundColor = App.UnselectedButtonColor;
-                        Button_ClimbStatus_3.BackgroundColor = App.SelectedButtonColor;
+                        Button_ClimbStatus_Park.BackgroundColor = App.UnselectedButtonColor;
+                        Button_ClimbStatus_Left.BackgroundColor = App.UnselectedButtonColor;
+                        Button_ClimbStatus_Middle.BackgroundColor = App.SelectedButtonColor;
+                        Button_ClimbStatus_Right.BackgroundColor = App.UnselectedButtonColor;
+                        break;
+                    case 4:
+                        newValue = 4;
+                        Button_ClimbStatus_None.BackgroundColor = App.UnselectedButtonColor;
+                        Button_ClimbStatus_Park.BackgroundColor = App.UnselectedButtonColor;
+                        Button_ClimbStatus_Left.BackgroundColor = App.UnselectedButtonColor;
+                        Button_ClimbStatus_Middle.BackgroundColor = App.UnselectedButtonColor;
+                        Button_ClimbStatus_Right.BackgroundColor = App.SelectedButtonColor;
                         break;
                     default:
                         newValue = 0;
                         Button_ClimbStatus_None.BackgroundColor = App.SelectedButtonColor;
-                        Button_ClimbStatus_1.BackgroundColor = App.UnselectedButtonColor;
-                        Button_ClimbStatus_2.BackgroundColor = App.UnselectedButtonColor;
-                        Button_ClimbStatus_3.BackgroundColor = App.UnselectedButtonColor;
+                        Button_ClimbStatus_Park .BackgroundColor = App.UnselectedButtonColor;
+                        Button_ClimbStatus_Left.BackgroundColor = App.UnselectedButtonColor;
+                        Button_ClimbStatus_Middle.BackgroundColor = App.UnselectedButtonColor;
+                        Button_ClimbStatus_Right.BackgroundColor = App.UnselectedButtonColor;
                         break;
                 }
                 if (viewModel.item.ClimbStatus != newValue)

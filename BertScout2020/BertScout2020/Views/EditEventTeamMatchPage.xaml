@@ -375,31 +375,31 @@
                         FontSize="24"
                         WidthRequest="90"
                         BackgroundColor="LightGray"
-                        Clicked="Button_ClimbStatus_None_Clicked"
+                        Clicked="Button_ClimbStatus_Park_Clicked"
                         />
                     <Button
-                        x:Name="Button_ClimbStatus_1"
+                        x:Name="Button_ClimbStatus_Left"
                         Text="Left"
                         FontSize="24"
                         WidthRequest="58"
                         BackgroundColor="LightGray"
-                        Clicked="Button_ClimbStatus_1_Clicked"
+                        Clicked="Button_ClimbStatus_Left_Clicked"
                         />
                     <Button
-                        x:Name="Button_ClimbStatus_2"
+                        x:Name="Button_ClimbStatus_Middle"
                         Text="Mid"
                         FontSize="24"
                         WidthRequest="58"
                         BackgroundColor="LightGray"
-                        Clicked="Button_ClimbStatus_2_Clicked"
+                        Clicked="Button_ClimbStatus_Middle_Clicked"
                         />
                     <Button
-                        x:Name="Button_ClimbStatus_3"
+                        x:Name="Button_ClimbStatus_Right"
                         Text="Right"
                         FontSize="24"
                         WidthRequest="58"
                         BackgroundColor="LightGray"
-                        Clicked="Button_ClimbStatus_3_Clicked"
+                        Clicked="Button_ClimbStatus_Right_Clicked"
                         />
                 </StackLayout>
                 <StackLayout Orientation="Horizontal">
