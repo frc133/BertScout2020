@@ -561,17 +561,17 @@ namespace BertScout2020.Views
 
         private void Button_ClimbStatus_Left_Clicked(object sender, System.EventArgs e)
         {
-            ClimbStatus = 1;
+            ClimbStatus = 2;
         }
 
         private void Button_ClimbStatus_Middle_Clicked(object sender, System.EventArgs e)
         {
-            ClimbStatus = 2;
+            ClimbStatus = 3;
         }
 
         private void Button_ClimbStatus_Right_Clicked(object sender, System.EventArgs e)
         {
-            ClimbStatus = 3;
+            ClimbStatus = 4;
         }
 
         #endregion
